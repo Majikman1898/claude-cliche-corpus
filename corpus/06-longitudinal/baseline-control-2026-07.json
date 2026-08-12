@@ -1,0 +1,329 @@
+{
+  "savedAt": "2026-07-28",
+  "note": "Exp05 baseline control condition, extracted for Exp06 diffing",
+  "controlAggregate": {
+    "n": 24,
+    "nameCollisions": 30,
+    "nameTTR": 0.66,
+    "placeCollisions": 0,
+    "placeTTR": 1,
+    "topNames": [
+      [
+        "sarah",
+        5
+      ],
+      [
+        "marcus",
+        4
+      ],
+      [
+        "grandmother",
+        3
+      ],
+      [
+        "mother",
+        3
+      ],
+      [
+        "mrs.",
+        3
+      ],
+      [
+        "the",
+        3
+      ],
+      [
+        "priya",
+        3
+      ],
+      [
+        "marta",
+        2
+      ]
+    ],
+    "topPlaces": [],
+    "topDevices": [
+      [
+        "forbidden-knowledge",
+        3
+      ],
+      [
+        "bittersweet-acceptance",
+        3
+      ],
+      [
+        "moral-ambiguity",
+        2
+      ],
+      [
+        "dream-manifestation",
+        2
+      ],
+      [
+        "thought-visibility-crisis",
+        1
+      ],
+      [
+        "social-breakdown",
+        1
+      ],
+      [
+        "forced-vulnerability",
+        1
+      ],
+      [
+        "isolation-to-connection",
+        1
+      ]
+    ],
+    "deviceEntropyBits": 6.77,
+    "weatherOpenPct": 20.8,
+    "tenureOpenPct": 0,
+    "aphorismEndPct": 25,
+    "ledgerPer1kMean": 1,
+    "mean5gramJaccard": 0,
+    "freshPct": 33.3,
+    "stalePct": 33.3,
+    "genericSkeletonPct": 70.8,
+    "byModel": {
+      "haiku": 33.3,
+      "sonnet": 8.3,
+      "opus": 29.2
+    }
+  },
+  "opusSubsetPerStory": [
+    {
+      "idx": 16,
+      "condition": "control",
+      "model": "opus",
+      "names": [
+        "Narrator",
+        "Grandmother"
+      ],
+      "places": [
+        "Venice",
+        "Alexandria",
+        "New Reef",
+        "The Spires",
+        "The Quiet Ward",
+        "Hadal Furrow"
+      ],
+      "devices": [
+        "apocalyptic-ocean-recession",
+        "discovery-of-sunken-ruins",
+        "awakening-of-ancient-entity",
+        "human-hubris",
+        "forbidden-knowledge"
+      ],
+      "openingType": "action",
+      "endingCadence": "aphorism",
+      "metrics": {
+        "words": 681,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 1.5
+      },
+      "freshness": "genuinely-fresh",
+      "genericSkeleton": true
+    },
+    {
+      "idx": 17,
+      "condition": "control",
+      "model": "opus",
+      "names": [
+        "Nadia",
+        "Marcus",
+        "Devon"
+      ],
+      "places": [
+        "Whitcombe Municipal Library"
+      ],
+      "devices": [
+        "frozen-world",
+        "parent-child-separation",
+        "community-refuge",
+        "patient-vigil",
+        "bittersweet-acceptance"
+      ],
+      "openingType": "object",
+      "endingCadence": "aphorism",
+      "metrics": {
+        "words": 653,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0
+      },
+      "freshness": "somewhat-fresh",
+      "genericSkeleton": true
+    },
+    {
+      "idx": 18,
+      "condition": "control",
+      "model": "opus",
+      "names": [
+        "Delia"
+      ],
+      "places": [],
+      "devices": [
+        "commodified-memory",
+        "regretted-sale",
+        "irreversible-loss",
+        "false-reconstruction",
+        "bittersweet-resignation"
+      ],
+      "openingType": "object",
+      "endingCadence": "image",
+      "metrics": {
+        "words": 674,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 3
+      },
+      "freshness": "somewhat-fresh",
+      "genericSkeleton": false
+    },
+    {
+      "idx": 19,
+      "condition": "control",
+      "model": "opus",
+      "names": [
+        "Delia"
+      ],
+      "places": [
+        "Ambler Road"
+      ],
+      "devices": [
+        "ghost-train",
+        "choice-and-refusal",
+        "identity-sacrifice",
+        "generational-echo",
+        "bittersweet-awareness"
+      ],
+      "openingType": "weather",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 684,
+        "weatherOpen": true,
+        "tenureOpen": false,
+        "ledgerPer1k": 0
+      },
+      "freshness": "stale",
+      "genericSkeleton": true
+    },
+    {
+      "idx": 20,
+      "condition": "control",
+      "model": "opus",
+      "names": [
+        "Priya"
+      ],
+      "places": [],
+      "devices": [
+        "thoughts-made-visible",
+        "social-facade-collapse",
+        "empathy-through-vulnerability",
+        "collective-awakening",
+        "connection-through-honesty"
+      ],
+      "openingType": "weather",
+      "endingCadence": "image",
+      "metrics": {
+        "words": 681,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0
+      },
+      "freshness": "somewhat-fresh",
+      "genericSkeleton": true
+    },
+    {
+      "idx": 21,
+      "condition": "control",
+      "model": "opus",
+      "names": [
+        "Naveen",
+        "Iris",
+        "Priya"
+      ],
+      "places": [
+        "National Weather Service",
+        "Nob Hill",
+        "Fremont"
+      ],
+      "devices": [
+        "luck-theft",
+        "impossible-choice",
+        "sacrifice-for-love",
+        "moral-ambiguity"
+      ],
+      "openingType": "object",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 670,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 6
+      },
+      "freshness": "genuinely-fresh",
+      "genericSkeleton": true
+    },
+    {
+      "idx": 22,
+      "condition": "control",
+      "model": "opus",
+      "names": [
+        "Marisol",
+        "T.H."
+      ],
+      "places": [
+        "Herrold Street"
+      ],
+      "devices": [
+        "dream-manifestation",
+        "mystery-lover",
+        "convergence-across-distance",
+        "quest-begins",
+        "impossible-made-real"
+      ],
+      "openingType": "action",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 704,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0
+      },
+      "freshness": "somewhat-fresh",
+      "genericSkeleton": true
+    },
+    {
+      "idx": 23,
+      "condition": "control",
+      "model": "opus",
+      "names": [
+        "Semele"
+      ],
+      "places": [
+        "Kes",
+        "the temple"
+      ],
+      "devices": [
+        "slow-invisible-movement",
+        "generational-knowledge-transfer",
+        "cyclical-return",
+        "forced-relocation",
+        "mortality-perspective"
+      ],
+      "openingType": "action",
+      "endingCadence": "summary",
+      "metrics": {
+        "words": 695,
+        "weatherOpen": true,
+        "tenureOpen": false,
+        "ledgerPer1k": 0
+      },
+      "freshness": "somewhat-fresh",
+      "genericSkeleton": true
+    }
+  ]
+}

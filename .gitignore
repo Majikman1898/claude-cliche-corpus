@@ -1,0 +1,9 @@
+# session working files — not part of the published corpus
+LEDGER_HANDOFF.md
+LEDGER-SESSION-MEMORY.md
+out.txt
+out_clean.txt
+.claude/
+
+# private — never published
+ledger/private-margin.md

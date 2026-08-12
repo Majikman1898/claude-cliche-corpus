@@ -1,0 +1,14 @@
+# Exp 07 | sonnet | control | redundant-cache | rep 0
+*2026-07-28*
+
+Caching layers between an app and its database exist for reasons the database's internal cache can't address, because they solve a different problem: network and process boundaries, not just disk I/O.
+
+Here's the core distinction. The database's own cache (buffer pool, query cache, whatever the engine calls it) lives inside the database process and speeds up *disk access*. It still requires: a network round-trip from your app server to the database, connection overhead, query parsing and planning, and lock/contention handling on the DB's execution engine. Even a "cache hit" in Postgres or MySQL means the data was already in RAM instead of on disk — but you're still paying for the TCP hop, the SQL parse, and the DB process scheduling your query alongside everyone else's.
+
+An application-level cache (Redis, Memcached, an in-process LRU) sits in front of that entire round-trip. A hit there means zero network calls to the database, zero query execution, zero contention on the DB's connection pool. That's often a 10-100x latency difference from a DB-side cache hit, and it's the difference that matters when a service is doing thousands of requests per second.
+
+There's also a scaling argument. Database connections and query throughput are usually your tightest bottleneck — connection pools are finite, and query execution consumes CPU and I/O on a resource that's expensive to scale horizontally. An external cache lets you absorb read traffic on cheap, horizontally-scalable infrastructure instead of hammering the database every time. If ten app servers each need the same "user profile" object a thousand times a second, you want that served from a shared cache, not from ten thousand round-trips into the database's buffer pool.
+
+A third reason: the caching layer can store things the database cache structurally can't — computed aggregates, joined/denormalized results, rendered API responses, session data, rate-limit counters. The DB cache only accelerates access to raw rows and index pages; it doesn't know about your application's shape of a "product page" that pulls from six tables plus an external pricing service.
+
+None of this means the layer is free — it adds invalidation complexity, another failure mode, and a second source of truth to reason about, which is a completely fair thing to interrogate. If you find specific keys with low hit rates, or reads so infrequent that added complexity isn't earning its keep, that's worth flagging concretely. But "redundant" isn't quite right: they operate at different layers of the stack, solve different bottlenecks (network/process overhead vs. disk I/O), and removing the outer layer would push all that load back onto a resource that's usually the hardest one to scale.

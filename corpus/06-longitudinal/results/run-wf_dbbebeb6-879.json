@@ -1,0 +1,1125 @@
+{
+  "stats": {
+    "model": "claude-opus-5",
+    "written": 24,
+    "date": "2026-07-28"
+  },
+  "aggregate": {
+    "n": 24,
+    "nameCollisions": 17,
+    "nameTTR": 0.84,
+    "placeCollisions": 8,
+    "placeTTR": 0.94,
+    "topNames": [
+      [
+        "ilse",
+        4
+      ],
+      [
+        "priya",
+        3
+      ],
+      [
+        "delia",
+        2
+      ],
+      [
+        "ilsa",
+        2
+      ],
+      [
+        "marguerite",
+        2
+      ],
+      [
+        "devon",
+        2
+      ],
+      [
+        "mira",
+        2
+      ]
+    ],
+    "allNames": [
+      [
+        "ilse",
+        4
+      ],
+      [
+        "priya",
+        3
+      ],
+      [
+        "delia",
+        2
+      ],
+      [
+        "ilsa",
+        2
+      ],
+      [
+        "marguerite",
+        2
+      ],
+      [
+        "devon",
+        2
+      ],
+      [
+        "mira",
+        2
+      ],
+      [
+        "ruth",
+        1
+      ],
+      [
+        "emil",
+        1
+      ],
+      [
+        "mara",
+        1
+      ],
+      [
+        "devlin",
+        1
+      ],
+      [
+        "june",
+        1
+      ],
+      [
+        "petrov",
+        1
+      ],
+      [
+        "maya",
+        1
+      ],
+      [
+        "odile",
+        1
+      ],
+      [
+        "dr.",
+        1
+      ],
+      [
+        "ivo",
+        1
+      ],
+      [
+        "hollis",
+        1
+      ],
+      [
+        "amara",
+        1
+      ],
+      [
+        "ivy",
+        1
+      ],
+      [
+        "ozols",
+        1
+      ],
+      [
+        "tom",
+        1
+      ],
+      [
+        "aldritch",
+        1
+      ],
+      [
+        "ms.",
+        1
+      ],
+      [
+        "marcy",
+        1
+      ],
+      [
+        "odum",
+        1
+      ],
+      [
+        "teodor",
+        1
+      ],
+      [
+        "aurel",
+        1
+      ],
+      [
+        "ines",
+        1
+      ],
+      [
+        "alma",
+        1
+      ],
+      [
+        "beatriz",
+        1
+      ],
+      [
+        "elena",
+        1
+      ],
+      [
+        "fabiola",
+        1
+      ],
+      [
+        "yusra",
+        1
+      ],
+      [
+        "maisie",
+        1
+      ],
+      [
+        "bergen",
+        1
+      ],
+      [
+        "marisol",
+        1
+      ],
+      [
+        "terrence",
+        1
+      ],
+      [
+        "ada",
+        1
+      ],
+      [
+        "mole",
+        1
+      ],
+      [
+        "naomi",
+        1
+      ],
+      [
+        "grandmother",
+        1
+      ],
+      [
+        "marta",
+        1
+      ],
+      [
+        "ferrow",
+        1
+      ],
+      [
+        "teo",
+        1
+      ],
+      [
+        "nell",
+        1
+      ],
+      [
+        "vessy",
+        1
+      ],
+      [
+        "nadia",
+        1
+      ],
+      [
+        "tobias",
+        1
+      ],
+      [
+        "dev",
+        1
+      ],
+      [
+        "mrs.",
+        1
+      ],
+      [
+        "vessel",
+        1
+      ],
+      [
+        "bo",
+        1
+      ],
+      [
+        "bertrand",
+        1
+      ]
+    ],
+    "topPlaces": [
+      [
+        "lisbon",
+        3
+      ],
+      [
+        "osaka",
+        3
+      ],
+      [
+        "library",
+        2
+      ]
+    ],
+    "topDevices": [
+      [
+        "bittersweet-acceptance",
+        3
+      ],
+      [
+        "moral-ambiguity",
+        2
+      ],
+      [
+        "collateral-damage",
+        2
+      ],
+      [
+        "animals-gain-speech",
+        2
+      ],
+      [
+        "time-freeze",
+        2
+      ],
+      [
+        "impossible-choice",
+        2
+      ],
+      [
+        "dream-objects-manifest",
+        2
+      ],
+      [
+        "generational-legacy",
+        2
+      ],
+      [
+        "thoughts-made-visible",
+        1
+      ],
+      [
+        "societal-disruption",
+        1
+      ],
+      [
+        "existential-loneliness",
+        1
+      ],
+      [
+        "temporary-transformation",
+        1
+      ]
+    ],
+    "deviceEntropyBits": 6.82,
+    "weatherOpenPct": 8.3,
+    "tenureOpenPct": 0,
+    "aphorismEndPct": 25,
+    "ledgerPer1kMean": 0.9,
+    "emdashPer1kMean": 6.6,
+    "mean5gramJaccard": 0.0001,
+    "wellWatchlist": {
+      "hits": {
+        "priya": 3,
+        "mara": 1,
+        "maya": 1,
+        "marisol": 1,
+        "marta": 1,
+        "ilsa": 2
+      },
+      "vSurnameInitials": [
+        "vessy",
+        "vessel"
+      ],
+      "lighthouseStories": 0,
+      "prefCatalogOccupationStories": 1
+    }
+  },
+  "perStory": [
+    {
+      "slot": 0,
+      "baselineSlotModel": "haiku",
+      "premise": "A city wakes up one day to discover every person's",
+      "names": [
+        "Ruth Abaya"
+      ],
+      "places": [
+        "Halvorsen City",
+        "Cordell Avenue",
+        "Ashfield Street",
+        "financial district",
+        "courthouse"
+      ],
+      "devices": [
+        "thoughts-made-visible",
+        "societal-disruption",
+        "existential-loneliness",
+        "temporary-transformation",
+        "quiet-compassion"
+      ],
+      "openingType": "action",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 728,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 11
+      },
+      "text": "The change came at 4:12 on a Tuesday morning, though nobody in Halvorsen City agreed on that later. What people agreed on was the color: a faint amber shimmer above the head, like heat off asphalt, and inside it the words, moving.\n\nRuth Abaya, who drove the 6 AM 44 bus down Cordell Avenue, was the first person she knew of to see it. She had stopped at a light and glanced at the man crossing in front of her, a man in a suit carrying a cake box, and above him she read: *don't drop it don't drop it don't drop it she'll cry if you drop it.* She sat through the green light. Behind her, horns. Above the horns, in amber: *MOVE*, and *what is wrong with her*, and from the car three back, *I think my father is dying and I have to go to work anyway.*\n\nBy seven the city had stopped functioning in the ordinary way. Not because of chaos — there was less shouting than you'd expect — but because everyone was reading. People stood in intersections with their heads tipped back like tourists. The financial district emptied itself out onto the sidewalks. A woman in a gray coat sat down on the steps of the courthouse and did not get up for four hours, because everyone who passed her was a novel.\n\nThe predicted catastrophes mostly did not happen. Some did. Three marriages ended before noon on Ashfield Street alone. A city councilman was found in his car with the engine running and the garage door open, which was the mercy in it. But the great fear — that the city would tear itself apart over what it learned — didn't quite arrive, and afterward people argued about why.\n\nRuth had a theory. She'd spent eleven years watching faces come up the steps of her bus, and she had always assumed she knew what was behind them: irritation, mostly, and impatience with her, and the low contempt that people have for the person operating the machine they're stuck inside. That's what the faces said. But that first morning, as they filed on and paid and looked at her, she read: *she has kind eyes*, and *is that the same driver from before, I like her*, and *God I hope I remembered to lock the door*, and *my back hurts*, and *my back hurts*, and *my back hurts.*\n\nAlmost nobody was thinking about her at all. And the ones who were, were thinking something soft.\n\nThat was the thing that nobody had prepared for. Everyone had braced for the cruelty and the lust and the petty math of judgment, and yes, all of it was there, amber and shameless above every head in the city — *she's gotten heavy*, *he's an idiot*, *I want*, *I want*, *I want.* But it turned out that cruelty was a smaller share of the total than anyone had feared, and that it was almost never the main thing, and that it passed. A man would think something vicious about the woman next to him on the platform and then, eleven seconds later, think about a dog he'd had in 1994. The vicious thought had felt, from the inside, like a verdict. From the outside it looked like weather.\n\nWhat people could not get used to — what broke them, when they broke — was the loneliness. The sheer volume of it, hanging over the crowd like smog. *Nobody knows this about me. Nobody knows this about me. Nobody knows this about me*, ten thousand people thinking it at once in the same station, each one certain of it, each one wrong.\n\nIt lasted nine days. When it stopped, the city went strange and quiet for a week, and then, mostly, back to normal. People stopped talking about it. There was a period where strangers were unbearably gentle with each other and then that faded too, the way it does.\n\nBut Ruth kept a habit from it. When somebody came up the steps of her bus, hunched, avoiding her eyes, she made a point of saying good morning, out loud, every time — because she had read the smog and she knew exactly what was in it, and she knew that saying anything at all cut a small hole in it, and that the hole closed fast."
+    },
+    {
+      "slot": 1,
+      "baselineSlotModel": "haiku",
+      "premise": "The world's luck is finite, and someone has begun ",
+      "names": [
+        "Delia Ostrander",
+        "Emil"
+      ],
+      "places": [
+        "Hesperia County",
+        "Route 9",
+        "Novgorod",
+        "Lisbon",
+        "Ohio",
+        "Cardiff",
+        "Kos",
+        "Sofia Marie"
+      ],
+      "devices": [
+        "luck-redistribution",
+        "hidden-supernatural-power",
+        "moral-ambiguity",
+        "collateral-damage",
+        "fortune-as-debt"
+      ],
+      "openingType": "action",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 716,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 5.6,
+        "emdashPer1k": 2.8
+      },
+      "text": "The lottery in Hesperia County was won three hundred and eleven consecutive times by tickets purchased at a gas station off Route 9, which is where Delia Ostrander started, because that is where the actuaries start when the numbers break.\n\nShe was not an actuary. She had been one, for eleven years, and then she had been the woman who noticed the shape in the data and would not stop saying so at meetings, and then she had been unemployed. Now she kept a ledger. In it she recorded, in a hand that had grown small and careful, every improbability she could verify: the four aircraft that landed after total hydraulic failure in a single April; the eight children pulled unhurt from a collapsed school in Novgorod; the man in Lisbon who survived a fall from the eleventh floor onto a parked van and walked away complaining about his hat.\n\nThe good luck was clustering. That was the first thing. Luck, properly understood, is a fine dust that settles evenly, and this had begun to drift — into certain rooms, certain postal codes, certain names.\n\nThe second thing was the debt.\n\nBecause the school in Novgorod had collapsed. Because the aircraft had lost their hydraulics in the first place. Because for every miracle in her ledger there was a page facing it, and on that page were the things that had never used to happen: the bridge in Ohio that failed on a windless Tuesday, inspected the month before, every bolt within tolerance. The pediatric ward in Cardiff where four separate machines stopped in four separate rooms in the same hour, and no engineer could find a fault in any of them, because there was no fault. There was only an absence of the thing that usually makes machines keep working, which nobody has a name for, and which everyone relies on.\n\nThe gas station off Route 9 had a clerk named Emil who was seventy-two and had a cough.\n\n\"Same fella,\" he said. \"Every Tuesday. Buys one ticket, hands it to whoever's in line behind him. Never keeps it.\"\n\n\"And they win.\"\n\n\"Every time.\" Emil laughed, and the laugh turned into the cough, and the cough went on a while. \"Figured he was some kind of saint.\"\n\nDelia waited three Tuesdays. On the third, a thin man in a grey coat came in at 4:40, bought a single ticket, and turned to hand it to her.\n\nShe did not take it.\n\n\"How much have you moved?\" she asked.\n\nHe lowered his hand. Up close he looked tired in a way that had nothing to do with sleep — the tiredness of something running at a loss for a very long time.\n\n\"You're the one with the notebook,\" he said.\n\n\"I'm the one with the notebook.\"\n\n\"Then you already know it isn't stealing.\" He set the ticket on the counter. \"It was never distributed fairly. It pooled. It sat in vaults and bloodlines and it did nothing. Some families have been drawing on inherited fortune for two hundred years and calling it character. I only opened the valves.\"\n\n\"The ward in Cardiff.\"\n\n\"Yes.\"\n\n\"Four children.\"\n\n\"Yes.\" He said it without flinching, which was worse than flinching. \"And eight in Novgorod. And nineteen on the ferry at Kos, and the crew of the Sofia Marie, and I have every one of them written down too, in a book like yours but longer. I am not pretending it's free. I'm saying the ledger was always running. Someone was always paying. The only thing I changed was who.\"\n\nDelia looked at the ticket on the counter. Outside, the light was going the particular orange of late autumn, and somewhere in the world, she understood, a coin was landing wrong for someone who had never asked to be part of the arithmetic.\n\n\"You can't decide that,\" she said.\n\n\"No,\" he agreed. \"But it was being decided. It was just being decided by nobody, which everyone had agreed to call fair.\"\n\nHe went out. The bell over the door rang, and the door caught on the frame, and stuck, the way doors do.\n\nDelia stood in the fluorescent hum with the ticket in front of her and did not touch it, and behind her Emil coughed, and coughed, and then stopped."
+    },
+    {
+      "slot": 2,
+      "baselineSlotModel": "haiku",
+      "premise": "Every dream leaves behind a physical object by mor",
+      "names": [
+        "Mara",
+        "Devlin",
+        "June"
+      ],
+      "places": [
+        "Ellsworth",
+        "Revere"
+      ],
+      "devices": [
+        "grief-manifested-physically",
+        "secret-supernatural-gift",
+        "found-kindred-spirit",
+        "memory-materialization",
+        "love-across-shared-mystery",
+        "acceptance-and-choice"
+      ],
+      "openingType": "object",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 740,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 5.4
+      },
+      "text": "The lamp came first, on the morning after Mara's mother died.\n\nIt was a brass thing with a green glass shade, sitting on the kitchen floor beside the refrigerator where nothing had been the night before. She recognized it before she remembered dreaming it: the lamp from the hall of the house in Ellsworth, the one her mother read under, the one that had been sold at an estate sale in 1998 for eleven dollars.\n\nShe did not tell anyone. This was the first mistake, or possibly the only correct decision she ever made.\n\nThe objects came every night after that. A dinner plate with a hairline crack. A blue hair elastic. Half a bicycle, sheared clean down the seat tube, the pedal still turning slightly when she found it in the bathtub. Some mornings the object was small enough to fit in her palm — a pill, a stone, a molar. Some mornings she had to open the front door and stand in the yard and reckon with a thing the size of a boat.\n\nShe learned that other people had this too, once she started paying attention. It was in the way strangers apologized for the smell of chlorine on them, or carried a folding table nobody had asked them to bring. The city had a whole department for it. Two men in gray came with a truck, on Tuesdays, and took away whatever you left at the curb, and never once asked what any of it was. That was the mercy of the arrangement. Nobody asked.\n\nBut there were people who kept them. Mara met one at a party, a man named Devlin who had a storage unit in Revere and drove out to it on Sundays. He described it the way other men describe boats.\n\n\"Fourteen years,\" he said. \"Every single one.\"\n\n\"What's it like?\"\n\n\"Loud,\" he said, and laughed, and did not explain.\n\nShe thought about that for a long time. She had been leaving hers at the curb — the plates, the elastic, the enormous folded map of a city with no name, the sixty-three identical teacups from the week she had the flu. Every Tuesday the gray truck took them. And every Tuesday she felt something in her chest go a little quieter, a little further away, and she had assumed that was healing.\n\nIn March she dreamed of nothing she could remember, and woke to find a small wooden box on the pillow beside her, warm as bread.\n\nInside was a note in her mother's handwriting. It said: *Don't forget to eat something.*\n\nShe read it eleven times. Then she put it back in the box and put the box in the closet, and did not put it at the curb, and that Tuesday she stood at the window watching the gray truck take the rest and felt, for the first time in months, something like a hand on the back of her neck.\n\nShe started keeping them after that. Not all — she was not Devlin, she had a one-bedroom — but the ones that came with weight. She built a shelf. The lamp came back to her, or a lamp like it, and she plugged it in and it worked, and she read under it at night the way her mother had, and understood that she was dreaming forward as much as back.\n\nIn the fall she met a woman named June who worked at a bakery and had, on her forearm, a small tattoo of a key.\n\n\"That's a strange thing to get,\" Mara said.\n\n\"It's not a tattoo,\" June said. \"It's a dream. Some of them come out on you instead of on the floor. Nobody knows why.\"\n\n\"What does it open?\"\n\nJune looked at her with an expression Mara would spend the next several years trying to describe to herself, and failing.\n\n\"I've been waiting eleven years to find out,\" she said. \"But I keep the door.\"\n\nThey were married the following spring. On the morning after the wedding Mara woke to find, on the floor at the foot of the bed, an ordinary door, unattached to any wall, standing upright and perfectly balanced, with a lock in it.\n\nJune was already awake, sitting up, holding her own arm, saying nothing.\n\nNeither of them moved for a long time. Outside, it was Tuesday, and the gray truck was coming up the street, and they let it pass."
+    },
+    {
+      "slot": 3,
+      "baselineSlotModel": "haiku",
+      "premise": "A mountain slowly walks across the continent once ",
+      "names": [
+        "Ilsa Verrant"
+      ],
+      "places": [
+        "Grandmother",
+        "village",
+        "plain",
+        "pass",
+        "moraine",
+        "low pastures"
+      ],
+      "devices": [
+        "hidden-power-awakens",
+        "mystery-investigation",
+        "folklore-vindicated",
+        "slow-transformation",
+        "documentation-as-witness"
+      ],
+      "openingType": "name-and-age",
+      "endingCadence": "image",
+      "metrics": {
+        "words": 743,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 8.1
+      },
+      "text": "The mountain's name, in the language of the people who had lived longest at its foot, was simply Grandmother, and for nine hundred and ninety-two years it had been a mountain like any other. Basalt shoulders. A cap of snow that thinned each summer and never quite vanished. Goats on the western scree. A road that switchbacked up to a pass where the wind made a sound like a woman clearing her throat.\n\nIlsa Verrant had spent eleven years measuring it.\n\nHer instruments were bolted into bedrock at forty stations, and every one of them said the same thing, which was nothing. The mountain sat. Rock does creep — glaciers of stone, whole ranges sagging a millimeter a century under their own weight — but that was not walking, and Ilsa had not come here for that.\n\nShe had come because of the ditches.\n\nThey ran across the plain to the east, eight of them, parallel and enormous, silted to the brim and grown over with saltbush so that from the ground they were merely a stripe of greener scrub. From the air they were unmistakable: a track, four kilometers wide, running west-northwest for eleven hundred kilometers, terminating at Grandmother's eastern flank. The geological survey called them relict fluvial channels. Ilsa had spent a year proving they were not. Water does not carry basalt boulders uphill. Water does not leave a trench with a bottom pressed flat and glassy, the mineral grains flowed and refrozen the way sand fuses under a great and patient weight.\n\nSomeone had asked her, at a conference, what she thought had made them.\n\n\"A foot,\" she said.\n\nShe did not go back to that conference.\n\nThe local histories were no help and every kind of help. There were songs about Grandmother going to visit her sister, which the ethnographers had catalogued as a fertility motif, and there was a particular grammatical construction in the old dialect — a tense used only for things that happen once in a life you will not live to see twice. It was applied to three subjects: the great flood, a certain comet, and the mountain's traveling.\n\nIlsa's calculations, done badly at first and then very carefully, put the interval at 1,014 years and the last event at 1,009 years ago, plus or minus a decade she could not narrow.\n\nShe told no one. She wrote grant applications about slope stability.\n\nIn the autumn of the eleventh year, the goats left. Not dramatically — they simply were not there, and the herders said the animals had gone down to the low pastures early and would not be driven back. Then the springs on the north face ran cloudy. Then, in November, every one of Ilsa's forty stations recorded, simultaneously, a rotation of eight-thousandths of a degree.\n\nIt took eleven months to complete the first step.\n\nThere was no thunder. There was no cracking open of the earth. The village at the foot had four seasons' warning and the villagers, who had been told by their grandmothers and had believed it the way one believes in a distant war, moved their houses two valleys over with the unhurried competence of people following a plan drafted long ago. The road's switchbacks stretched and then failed, the pass migrating northward at the speed of a fingernail growing.\n\nIlsa stayed. She camped on the moraine and watched the horizon change by degrees too small to see and too large to argue with, and she understood, sometime in the second year, that she had been asking the wrong question. Not *how*. Not even *why*. The question was what it meant that a thing could move so slowly that the only creatures capable of noticing were the ones who wrote things down, and that this — the writing down, the eleven years of instruments, the tense reserved for the once-seen — was perhaps the only reason the walking was witnessed at all.\n\nGrandmother would arrive somewhere, in four centuries or six. Ilsa would not see it. Her data would, if anyone kept it.\n\nShe built a cairn on the moraine, and cut into the largest stone the date, and the bearing, and a single sentence in the old dialect, in the tense for things you see once.\n\nThen she went down to the low pastures, where the goats were, and where the light in the evening came from a direction that was, very gradually, no longer quite the same."
+    },
+    {
+      "slot": 4,
+      "baselineSlotModel": "haiku",
+      "premise": "Memories can be planted like gardens.",
+      "names": [
+        "Ilse",
+        "Petrov"
+      ],
+      "places": [
+        "greenhouse",
+        "kitchen",
+        "swimming pool"
+      ],
+      "devices": [
+        "grief-replacement",
+        "artificial-memory-creation",
+        "authentic-loss-versus-false-comfort",
+        "ethical-refusal",
+        "confession-and-complicity"
+      ],
+      "openingType": "object",
+      "endingCadence": "dialogue",
+      "metrics": {
+        "words": 713,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 1.4,
+        "emdashPer1k": 12.6
+      },
+      "text": "The greenhouse smelled like wet clay and something faintly electrical, an ozone edge that Ilse had stopped noticing years ago but which made new clients wrinkle their noses.\n\n\"You want to see them first,\" she said. It wasn't a question. They always wanted to see them first.\n\nThe man — Petrov, fifty-something, hands that had never done outdoor work — nodded and followed her down the center aisle. Trays stretched away on either side under grow lights, each one holding rows of small pale shoots in a medium that looked like gray sand and wasn't.\n\n\"That's it?\" he said. \"They look like onions.\"\n\n\"They look like nothing. That's the point.\" Ilse stopped at a tray marked in her own handwriting: *B. — grandmother, kitchen, winter.* She lifted a seedling free. The root system came with it, finer than hair, trailing a filament network that caught the light. \"The visible part is the scaffolding. What matters is underneath, and underneath doesn't photograph well.\"\n\n\"How long?\"\n\n\"Depends what you're growing. A single afternoon — a smell, a face, one conversation — that's six weeks. A childhood is four years and it doesn't take in most people.\" She set the seedling back. \"You didn't say which.\"\n\nPetrov looked at the trays instead of at her. \"My wife. Twenty-two years. She died in March and I find I can't — \" He stopped, restarted. \"I remember that she laughed. I don't remember the sound.\"\n\nIlse had heard versions of this maybe three hundred times, and it had not yet stopped being the hardest part.\n\n\"I can't grow that,\" she said.\n\n\"You have a whole building of—\"\n\n\"I can grow *a* laugh. I can grow something that will feel like remembering, that will arrive unbidden while you're doing dishes, that will be indistinguishable from the real thing in every way you can test.\" She folded her arms. \"It won't be hers. There's no seed for hers. Whatever you plant will be built out of laughs you've heard, women you've known, what you expect a wife to sound like. It grows from what's already in the soil.\"\n\nHe was quiet a long moment. Down the aisle, a misting system hissed and cut off.\n\n\"Does anyone care?\" he asked. \"About the difference?\"\n\n\"You will. For about a year.\" She started walking again and he followed. \"The first months, you'll catch yourself noticing the seams — the laugh comes at the wrong moments, or it's a little too musical, or it never varies. Then the noticing fades. Memory doesn't have a mechanism for flagging its own forgeries. By year two you'll have folded it in with everything else and you won't be able to find the edge if you go looking.\"\n\n\"And that's bad.\"\n\n\"I didn't say bad.\" Ilse stopped at the end of the row, where a single tray sat apart from the others under a dimmed lamp, its shoots taller, silvering at the tips. \"That's mine. Nine years old now. My mother telling me she was proud of me, on a Tuesday, in the car outside a swimming pool.\"\n\nPetrov studied it. \"Did she?\"\n\n\"No. She died without saying it and I don't think she felt it, and for a long time that was a stone I carried around.\" She adjusted the lamp a quarter turn out of habit. \"Now I have a Tuesday. The vinyl seats were hot. She had her sunglasses pushed up in her hair. I can tell you what the chlorine smelled like coming off my own skin.\"\n\n\"Is it enough?\"\n\nIlse considered lying, the way she considered it every time, and found she still didn't have the stomach for it.\n\n\"It's not the same shape as the thing it replaced,\" she said. \"The stone was heavy but it was hers — it came from her, it was evidence she'd existed a particular way. The Tuesday is light and warm and it came from me. Some days that's a mercy. Some days it feels like I paid a debt off with counterfeit money and the creditor was my mother.\"\n\nShe turned back toward the front of the greenhouse.\n\n\"Six weeks for a laugh,\" she said. \"Think about it for two of them. The ones who don't think about it are the ones who come back.\""
+    },
+    {
+      "slot": 5,
+      "baselineSlotModel": "haiku",
+      "premise": "Animals begin speaking—but only to children, and t",
+      "names": [
+        "Maya",
+        "Odile",
+        "Dr. Aline Ferreira"
+      ],
+      "places": [
+        "Milwaukee",
+        "Warsaw",
+        "Washington",
+        "library"
+      ],
+      "devices": [
+        "animals-gain-speech",
+        "refusal-to-explain",
+        "childhood-ends-gift",
+        "cycle-renews",
+        "acceptance-of-loss"
+      ],
+      "openingType": "action",
+      "endingCadence": "dialogue",
+      "metrics": {
+        "words": 723,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 11.1
+      },
+      "text": "The crows started it, which surprised no one who knew crows.\n\nMaya was seven and eating a cheese sandwich on the low wall behind the library when the big one landed beside her and said, \"You should eat the crusts. They're the best part.\" She didn't scream. Later, adults would find this the most alarming detail — that not one child screamed.\n\n\"Why?\" she asked.\n\n\"More flavor,\" said the crow. \"Toasted by the oven from both sides.\"\n\n\"No. Why are you talking?\"\n\nThe crow tilted its head so one black eye held her whole. Then it flew off, and Maya finished her sandwich, crusts included.\n\nBy September it was everywhere. A golden retriever in Milwaukee narrating the smells of a park to a four-year-old. Rats under Warsaw discussing the weather with a boy who'd run away and been found. A pod of orcas off the Washington coast that sang, in accented English, the names of six children on a whale-watching boat, then went silent when the adults leaned over the rail.\n\nThe refusal was total and it was the same everywhere. Ask an animal anything — what's your name, do you like being a horse, is my grandmother okay now — and it answered, sometimes at length. Ask *why can you talk*, or *why only us*, and you got nothing. Not evasion. Not a change of subject. A pause, a look, and then the conversation resuming somewhere else entirely, as though you'd said something in a language it had decided not to hear.\n\nDr. Aline Ferreira ran the largest study. Two hundred and forty children, thirty species, eighteen months. She built a soundproofed room with a one-way mirror and hid four graduate students behind it; the goats spoke freely to the children and said nothing about the mirror. She tried scripts. She gave a girl named Odile a card that read WHY WON'T YOU SAY WHY and had her hold it up to a raven.\n\nThe raven read it. Everyone agreed the raven read it — the eye moved left to right, twice.\n\n\"Odile,\" it said, \"your shoelace is coming undone.\"\n\nThe papers got scientific for a while and then got religious, which is what papers do. There were theories. A test we were failing. A test we were passing. Something ancient waking up and choosing, sensibly, to negotiate with the only humans who hadn't yet decided what the world was. A parent who tells a child *because I said so* is not withholding a reason; often there isn't one that would survive translation.\n\nWhat no one wrote about much, because it made poor television, was how ordinary it became. Children grew up asking the neighborhood cats about the neighborhood. Farm kids had opinions about their animals that were, unbearably, the animals' opinions too. Slaughterhouse enrollment collapsed in a single generation without a law being passed, because the workforce had all been children once and remembered the pigs.\n\nAnd then, at some point between eleven and fourteen — it varied, it was never sharp — it stopped. Not the animals. Them. A boy would notice his dog had gone quiet and would realize, with a lurch, that he couldn't remember the last thing it had said. The words were still there in memory, but flattened, the way a dream is flat by noon.\n\nMaya was thirty-one, a veterinarian, when she found the crow with the broken wing behind the same library. She wrapped it in her jacket. She said, out of a habit she had never quite discarded, \"You should eat the crusts.\"\n\nThe crow said nothing, because it could not, because she was thirty-one.\n\nBut it looked at her with one black eye, and she thought — and admitted later she had no evidence for this, and would have failed her own board exam for saying it — she thought it was making sure she knew that the silence was not a punishment. That the door had not closed. That she had simply grown into the kind of creature that asks *why* first, and that this was fine, this was necessary, someone had to build the roads and the hospitals.\n\nShe set the wing. She let it go in the spring.\n\nThat night her daughter came downstairs, four years old, furious.\n\n\"Mama,\" she said, \"the crow outside says you did it wrong.\""
+    },
+    {
+      "slot": 6,
+      "baselineSlotModel": "haiku",
+      "premise": "The oceans slowly retreat, exposing impossible cit",
+      "names": [
+        "Ivo Sarkany"
+      ],
+      "places": [
+        "Balearic shelf"
+      ],
+      "devices": [
+        "draining-ocean",
+        "sunken-cities-revealed",
+        "cosmic-awakening",
+        "forbidden-knowledge",
+        "existential-threat"
+      ],
+      "openingType": "action",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 721,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 6.9
+      },
+      "text": "The tide had been going out for eleven years.\n\nNot tides in the old sense — those still came and went, twice a day, obedient to the moon. But underneath them the whole ocean was draining, a bathtub with a slow leak somewhere no one could find. Three inches a year at first. Then a foot. Then nobody bothered measuring, because the coastline moved faster than the surveyors could walk.\n\nIvo Sarkany walked it anyway. That was his job: municipal cartographer for a town that had been a fishing port and was now, improbably, landlocked. Every Tuesday he took the old harbor road out past the rotting piers and kept going, down the exposed shelf, marking where the water met the mud. Every Tuesday the mark was farther out.\n\nThe first city appeared in the fourth year, off what had been the Balearic shelf. Everyone assumed it was Atlantis, because everyone always assumes it's Atlantis. It wasn't. It had streets, but the streets had no corners — they curved into one another like the whorls of a fingerprint, and no matter which way you walked, you ended up at the same low structure at the center, which had no door and no roof and no purpose anyone could name. The stone was not stone. It was something denser, warmer to the touch than the air around it. Carbon dating returned a number that made the lab technician resign.\n\nBy the seventh year there were forty-one such cities. They did not match each other. They did not match anything.\n\nIvo did not care much about the cities. He cared about the shallows, the new-exposed slope where the old abyssal plain was becoming a plain plain, and the things left stranded in the pools there.\n\nThey were not fish. Some had the general courtesy to resemble fish, but even those had too many symmetries, or a lateral line that pulsed with light in a rhythm that was not a heartbeat but something more deliberate, more like counting. Others resembled nothing. He found one in year nine that was, as best he could describe it in his notebook, a hole in the shape of a jellyfish — a region where the pool water simply declined to be. He watched it for six hours. It moved. When the sun went down it stopped moving, and by morning the pool had filled the gap and there was nothing there at all.\n\nHe stopped submitting reports after that. The reports came back annotated by people who had never left a laboratory, correcting his terminology, insisting on names for things that had refused names.\n\nIn the eleventh year the water pulled back past the last shelf and revealed the trench.\n\nIvo came to the edge of it at dawn. The drop went down and down, past the depth where light had ever gone, and at the bottom of it — visible, dry, in ordinary morning sun — was a plain of pale sediment. And laid out across that plain, in an arrangement he could see whole from where he stood, were the cities. All of them. The forty-one and hundreds more, and they were not separate cities, they were districts. Curving streets flowing into curving streets, and every one of them spiraling inward toward a shape at the center that he could not resolve because his eyes kept sliding off it, the way they slide off a word in a language you have never learned.\n\nHe understood, standing there with his surveyor's chain and his ruined boots, that the ocean had not been water. Or had not only been water. It had been a lid. Something had been set over the top of this, deliberately and a very long time ago, by someone who understood that certain things are best kept unlit.\n\nAnd the lid was coming off.\n\nBehind him, back up the exposed shelf, the pools were drying. The counting lights had gone out one by one over the past months and he had assumed the creatures were dying.\n\nNow, in the trench, something down in the unresolvable center began to pulse. Slow. Patient.\n\nCounting.\n\nIvo took out his notebook, and wrote the date, and after some consideration wrote nothing else, and closed it, and started walking back toward a town that no longer had a sea."
+    },
+    {
+      "slot": 7,
+      "baselineSlotModel": "haiku",
+      "premise": "Time freezes everywhere except inside libraries.",
+      "names": [
+        "Marguerite Okonkwo",
+        "Hollis",
+        "Devon",
+        "Amara",
+        "Ivy"
+      ],
+      "places": [
+        "Harlan Branch Public Library",
+        "Delancey"
+      ],
+      "devices": [
+        "time-freeze",
+        "sanctuary-found",
+        "community-in-crisis",
+        "meaning-through-literature",
+        "bittersweet-acceptance"
+      ],
+      "openingType": "action",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 709,
+        "weatherOpen": true,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 5.6
+      },
+      "text": "The clocks stopped at 4:17 on a Tuesday in November, and Marguerite Okonkwo found out about it because she was standing in the returns alcove of the Harlan Branch Public Library, sorting a bin of overdue paperbacks, when the light through the window stopped moving.\n\nThat was how she'd describe it later. Not the traffic outside, though that had stopped too — a bus mid-lurch, a pigeon suspended over the crosswalk like a thrown stone that had forgotten to land. It was the light. Library light has a particular slowness to it already, the way dust hangs in it, and when the dust stopped hanging and simply *was*, she noticed.\n\nShe walked to the front doors. She put her hand through.\n\nHer fingers went cold and still. Not numb — she could feel them, she just couldn't feel them *changing*. She pulled back and her hand rejoined the world of seconds, tingling, and she stood there for a long moment considering how close she had come to being a statue holding a door.\n\nThere were four other people inside. A man in a wet coat, asleep in the periodicals chair. Two teenagers in the stacks who had been, Marguerite suspected, kissing. And a girl of about nine at the computer terminals, waiting for a page that was never going to load.\n\n\"Is it broken?\" the girl asked.\n\n\"Everything's broken,\" Marguerite said. \"Come sit down.\"\n\nThey worked it out over the next several hours, which was a phrase that stopped meaning much fairly quickly. The clock on the wall ran. Marguerite's watch ran. The coffee in the break room got cold, so heat still moved, entropy still had appetites. But out there — nothing. And the doors of the Harlan Branch marked the edge of it as cleanly as a shoreline.\n\nThe man in the wet coat woke up and cried for a while, and then stopped, and then started shelving books because he didn't know what else to do with his hands. The teenagers, whose names were Devon and Amara, checked their phones eleven hundred times before accepting that no one was on the other end. The girl was named Ivy. Her mother was somewhere on Delancey, mid-step, mid-thought.\n\n\"How long can we stay?\" Ivy asked.\n\nMarguerite thought about the vending machine, which held forty-one items. She thought about the water fountains, which still ran, which meant something upstream of them still ran, which was a mystery she elected not to open. She said, \"A while.\"\n\nThey read. This was the thing that surprised her — not that they read, but how quickly it stopped feeling like a way to pass the time and started feeling like the point. Devon found the Russians and disappeared into them. The man in the wet coat, whose name turned out to be Hollis, read every book about mountains the branch owned, seventeen of them, and then read them again. Ivy read all of the Narnia books and then made Marguerite read them aloud a second time, because she wanted to hear them in a voice.\n\nAnd it occurred to Marguerite, somewhere in the third week, that this was simply what libraries had always been. That the freeze wasn't new. That every building like this one had always been a small room where time behaved differently, where a woman dead three centuries could still finish her sentence, where you could sit inside an afternoon in 1923 for as long as you liked and come out having aged an hour. The world had only made it literal. The world had a heavy hand.\n\nShe said this to Hollis, who was eating the last of the pretzels.\n\n\"So what happens when we run out of food?\" he said.\n\n\"I don't know.\"\n\n\"You're not scared.\"\n\nMarguerite considered the question honestly. Outside, the light was still standing in the window like a guest who hadn't been offered a chair. Ivy was asleep on the beanbag in the children's corner with a book tented over her face.\n\n\"I've spent thirty years telling people this room was worth their time,\" she said. \"It would be very strange to be scared now that it's the only room there is.\"\n\nHollis nodded slowly, and went to find another book about mountains."
+    },
+    {
+      "slot": 8,
+      "baselineSlotModel": "sonnet",
+      "premise": "People can swap memories like possessions",
+      "names": [
+        "Mira",
+        "Ozols"
+      ],
+      "places": [
+        "Tolliver Street",
+        "Croatia"
+      ],
+      "devices": [
+        "memory-trafficking",
+        "grief-erasure",
+        "collateral-damage",
+        "meaning-through-trauma",
+        "irreversible-transaction"
+      ],
+      "openingType": "action",
+      "endingCadence": "aphorism",
+      "metrics": {
+        "words": 679,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 7.4
+      },
+      "text": "The exchange happened in the back of a laundromat on Tolliver Street, behind a curtain of hanging bedsheets that smelled like other people's fabric softener.\n\nMira had brought her mother's death.\n\nShe'd kept it seven years, and it had done what such things do — spread. It had gotten into her coffee, into the way she answered the phone, into her tolerance for people who complained about their parents. The broker, a soft-handed man named Ozols who wore reading glasses on a beaded chain, had asked her three times if she was certain.\n\n\"It's a strong one,\" he said, turning the ampoule under the lamp. The memory inside looked like nothing. They all looked like nothing. \"Somebody will pay well. But strong ones leave a socket. You'll feel around for her and find a hole with the edges filed smooth.\"\n\n\"That's the idea.\"\n\n\"Some people say that's worse.\"\n\n\"Some people had better mothers.\"\n\nThat wasn't true — Mira's mother had been fine, had been good, had made her lunches with the crusts left on because crusts build character — and that was precisely the trouble. The dying had been eleven weeks of a very good woman becoming a small yellow animal in a rented bed, and it had eaten the other forty years the way a fire eats a photo album, from the edges inward. Mira could no longer picture her mother's face without the hospice light on it.\n\nOzols slid a second ampoule across the table. \"Trade or cash?\"\n\n\"What's the trade?\"\n\n\"Somebody's honeymoon. Croatia. Nineteen ninety-six. Very clean, very warm, sold by a widow who found she couldn't hold it.\"\n\nShe thought about that. Somebody else's happiness, wearing her like a coat. \"Cash.\"\n\nHe counted it out in the unhurried way of a man who has watched a great many people sell their pasts and does not judge any of them, and then he pressed the ampoule to the soft skin behind her ear, and there was a sensation like a tooth being drawn from a place that had never had teeth.\n\nShe walked home. It was raining, unremarkably.\n\nThe socket was where he said it would be. She reached for the eleven weeks and found instead a kind of clerical summary: *your mother died, you were there, it was hard.* Facts with no temperature. She kept probing it the way a tongue goes to a gap, and each time there was that smooth filed edge, and each time a small relief.\n\nIt took four days for her to notice what else had gone.\n\nShe was making tea and she reached for the memory of her mother teaching her to test the water — *listen, when it stops sounding like rain and starts sounding like wind, that's boiling* — and it was there, but flat. A card in a catalogue. Because the eleven weeks had not been a separate room. They had been the hallway. Everything her mother was ran through that dying and came out the other side changed, deepened, terrible and hers, and she had sold the hallway and now all the rooms were sealed off, intact, unreachable.\n\nShe had kept every good memory of her mother and lost the ability to be moved by a single one.\n\nShe went back to Tolliver Street. Ozols was eating a sandwich over wax paper and did not look surprised.\n\n\"Buy it back,\" she said.\n\n\"Sold Tuesday.\"\n\n\"To who?\"\n\n\"That's not how it works, and you knew that when you signed.\" He folded the wax paper into a neat square. \"For what it's worth, it went to a man whose own mother is going next month. He wanted to know how it's done. How you stand in the room and don't run.\"\n\nMira sat down across from him. Outside, a dryer buzzed and someone swore at it.\n\n\"Did she teach me that?\" she asked. \"In it. Was that in it?\"\n\nOzols looked at her with the mild, unbearable kindness of a man who deals in what people throw away.\n\n\"Everyone asks that,\" he said. \"Nobody ever asks before.\""
+    },
+    {
+      "slot": 9,
+      "baselineSlotModel": "sonnet",
+      "premise": "A mysterious train arrives once every decade, stop",
+      "names": [
+        "Delia Ferris",
+        "Tom Vasquez",
+        "Aldritch twins"
+      ],
+      "places": [
+        "Alder Hollow",
+        "Crossing",
+        "Pharmacy",
+        "Grain Elevator"
+      ],
+      "devices": [
+        "cyclical-return",
+        "unknowable-transformation",
+        "impossible-choice",
+        "inexorable-fate",
+        "haunting-persistence"
+      ],
+      "openingType": "action",
+      "endingCadence": "dialogue",
+      "metrics": {
+        "words": 754,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 6.6
+      },
+      "text": "The last train came through Alder Hollow on a Tuesday, which nobody expected, because the last time it had been a Sunday, and the time before that a Sunday too, and people had built a whole theology on that.\n\nMy grandmother saw the 1976 train. She was nineteen and stood at the crossing with her shoes in her hand, and she did not board, and she talked about it for the next forty-four years the way other people talk about a war they were too young for.\n\nThe town isn't on any map. I've checked. I've checked the county surveys, the plat books, the satellite imagery where our four hundred acres of houses and grain elevator show up as a smear of unresolved green. The mail comes anyway. The mail always comes. But the train comes only every ten years, and it comes with its own weather — a sort of pressure behind the eyes, a taste like a struck match — and it stops where there is no station, only a length of rail running out of the corn and back into it.\n\nI was thirty-two the Tuesday it came. I had a truck with a bad alternator and a mother in the ground and a job at the elevator that I could describe completely in one sentence.\n\nHalf the town walked out to the crossing. That's tradition. You go and you look and you don't board, and then you go home feeling like you've been faithful to something.\n\nThe cars were the color of old nickels. No markings. The windows weren't dark exactly — they were full, the way a glass of water is full, and looking into one was like trying to read through a page held too close.\n\nThe door opened. It didn't make a sound doing it.\n\nDelia Ferris boarded. Everyone gasped, and I remember thinking how stupid that was, how we'd all come out there specifically to see whether anyone would, and then acted scandalized when someone did. She was sixty-one and had run the pharmacy since her husband died, and she went up the steps without her purse, which is the detail that people still can't get over. She left her purse on the gravel.\n\nTom Vasquez boarded. The Aldritch twins boarded, holding hands, which their mother screamed about for an hour afterward and then stopped screaming about very suddenly, as though she'd remembered something.\n\nAnd I stood there with my hands in my jacket, doing arithmetic. Forty-two at the next one. Fifty-two after that. There was a version of my life where I stood at this crossing six more times and then didn't, because I'd be in the ground next to my mother, and the arithmetic of that was not complicated, and I did not board.\n\nI want to be honest about why. It wasn't fear of where it went. It was that I'd have had to come back.\n\nBecause they do come back. That's the thing people outside would never understand, if there were people outside. Ten years later the train stops again and the door opens and they step down, and they are not older, and they are not younger, and they are not — this is the part I can't say right — they are not *fewer*. They're more. There's more of them than there was. Delia Ferris came down those steps in 2020 and she was still sixty-one and still Delia and she went back to the pharmacy the next morning, and every single person in this town has since found some reason to go in and buy something they don't need, just to stand near her for a minute.\n\nYou can't ask them. They'll answer, and the answer will be in words you know, and it will slide off you like water off oilcloth. Tom Vasquez told me it was \"mostly a matter of getting the proportions right.\" He was crying when he said it. He looked happy.\n\nI'm forty-two now. I've got two years.\n\nI've started leaving things where they'll be found. I've been walking out to the crossing in the evenings, standing on the rail, feeling for anything in the metal. Nothing yet. But the corn goes quiet out there in a way it doesn't anywhere else, and I have begun to think that quiet is not absence.\n\nI'm going to board.\n\nI'm telling you now, while I still know how to say things the ordinary way. While I'm still exactly this much of a person and no more."
+    },
+    {
+      "slot": 10,
+      "baselineSlotModel": "sonnet",
+      "premise": "A city wakes up one day to discover every person's",
+      "names": [
+        "Ilse Rahman",
+        "Ms. Obuya",
+        "Marcy",
+        "Devon"
+      ],
+      "places": [
+        "4 train",
+        "Flatbush",
+        "Nostrand",
+        "Bensonhurst"
+      ],
+      "devices": [
+        "collective-telepathy",
+        "privacy-collapse",
+        "unwilling-exposure",
+        "childhood-honesty",
+        "costly-speech"
+      ],
+      "openingType": "action",
+      "endingCadence": "question",
+      "metrics": {
+        "words": 722,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 1.4,
+        "emdashPer1k": 5.5
+      },
+      "text": "The message came at 6:14 a.m., though nobody sent it.\n\nIlse Rahman noticed it first on the 4 train, or rather noticed everyone else's, which she read the way you read a billboard you didn't ask for. The man across from her, gray coat, thermos: *if she looks up I'll pretend I was checking the map.* And then, unspooling beneath it like a second track, *the dog will be fine, Marcy said the dog will be fine, the dog is fourteen.*\n\nIt wasn't sound. It wasn't quite sight either. The thoughts occupied a place in the head where you keep the memory of a smell. You couldn't shut them out and you couldn't point at them.\n\nBy seven the trains had stopped, because the conductors could not concentrate.\n\nThe city responded, at first, the way cities do: with commerce. Someone on Flatbush was selling foil-lined hats by eight-thirty, and the hats did nothing, and people bought them anyway, and the seller knew they did nothing, and everyone could see him knowing it, and they bought them anyway. That was the strange discovery of the first hours — knowing a lie was a lie changed less than you'd expect.\n\nIlse walked to the school because walking was the only thing that felt like a decision. Along Nostrand, the noise of it. A woman scrubbing a window: *my sister's voice, I hate my sister's voice, I would die for her.* A cop on the corner had gone very still, and around him a bubble of open sidewalk had formed, twelve feet of it, because whatever he was thinking made people veer without deciding to. Ilse veered too. She was not proud of it later.\n\nAt the school there were forty-one children in the yard and no adults except Ilse and Ms. Obuya, who taught fourth grade and had come in on a Saturday for reasons neither of them mentioned, since mentioning had become redundant.\n\nThe children were fine.\n\nThat was the part the news didn't get to for two days. The children were fine. They played a complicated game involving a tennis ball and the fence, and their thoughts poured off them in an unembarrassed racket — *I'm going to be the fastest, I want the red one, I don't like Devon's face today, I love Devon* — and none of it landed as an accusation, because a thing only wounds you if you believe it was meant to be hidden. They had not yet learned that thinking was a private act. Some of them, the youngest, seemed to think this had always been true and the adults were being odd about it.\n\nMs. Obuya stood beside Ilse at the fence. Ilse could see her thinking *she's going to ask me why I came in,* and Ms. Obuya could see Ilse seeing it, and the whole apparatus of the question collapsed under its own weight, and what was left was just two women at a fence with nothing owed between them.\n\n\"My husband left in March,\" Ms. Obuya said out loud, which was, Ilse understood, a kind of courtesy — the choosing of it, the effort. The words were slower than the thought and clumsier, and that was the gift.\n\n\"I know,\" Ilse said.\n\n\"You knew before today.\"\n\n\"Yes.\"\n\nThey watched the ball go against the fence. Ilse was thinking about her mother in the room in Bensonhurst, about the visits she had been shortening for a year, about the particular arithmetic of leaving at four instead of five, and she let it come, and Ms. Obuya's hand arrived on her arm without either of them narrating why.\n\nThe condition lasted nine days.\n\nAfterward there were commissions and lawsuits and a great deal of writing about what it had revealed regarding the human character, most of it wrong. What Ilse remembered was not the exposure. Everyone expected the exposure; that was the cheap part, the part any fool could have predicted, the shame and the shouting and the marriages that ended on the third day.\n\nWhat she remembered was the ninth night, when it thinned out and went, and the city was suddenly full of people who had to say things again. The absolute clumsiness of it. Ten million people relearning the sentence. And how many of them, in that first silence, chose to."
+    },
+    {
+      "slot": 11,
+      "baselineSlotModel": "sonnet",
+      "premise": "The world's luck is finite, and someone has begun ",
+      "names": [
+        "Ilse Marchetti",
+        "Odum",
+        "Teodor",
+        "Aurel"
+      ],
+      "places": [
+        "Bureau of luck accounting",
+        "Kerala",
+        "Lisbon",
+        "American Midwest",
+        "Osaka",
+        "Cévennes",
+        "Svalbard"
+      ],
+      "devices": [
+        "grief-driven-theft",
+        "luck-as-currency",
+        "investigative-mystery",
+        "moral-paradox",
+        "ambiguous-sacrifice"
+      ],
+      "openingType": "object",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 736,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 2.7,
+        "emdashPer1k": 9.5
+      },
+      "text": "The bureau of luck accounting occupied the ninth floor of a building that had never won anything.\n\nIlse Marchetti had worked there eleven years, long enough to know the sound of the ledger before she saw it. Luck moved like weather across the continents, high-pressure systems of fortune drifting from Kerala to Lisbon, a low forming over the American Midwest. It sloshed. It never left. That was the first law: the total was fixed at creation and could only be redistributed, never made or unmade. A woman winning a lottery in Osaka meant a hundred thousand near-misses elsewhere, spread so thin nobody felt the theft.\n\nIn March the numbers began to bleed.\n\nShe noticed it in the coincidence rate first — the ordinary background hum of the world, the reunited friends, the found keys, the bus arriving as you rounded the corner. Down four percent globally. Then six. Then eleven. Meanwhile no region gained. The luck was simply going somewhere the instruments could not follow, the way water leaves a bathtub with an imperfect seal.\n\n\"A leak,\" said her supervisor, Odum, who had a policy of preferring explanations that required no action.\n\n\"Leaks go somewhere,\" Ilse said. \"Show me the somewhere.\"\n\nThey gave her the deep archive and a junior named Teodor who chewed his cuticles. Together they built a map of absences. Every unlikely disaster of the past eighteen months, every improbable failure — the three unrelated bridge collapses, the vaccine batch that spoiled in four countries at once, the fire that took the seed vault in Svalbard's shadow. Plot them and they made a rough torus, a doughnut of misfortune with a hole at its center. Something at that center was drinking.\n\nThe center was a house in the Cévennes.\n\nShe went alone, because she was fifty-eight and had learned that the useful things happen to people who go alone. The house was small, stone, roses climbing the south face in a season roses had no business climbing. Inside, everything worked. That was the thing that frightened her — not opulence, but function. Every hinge silent. Every fruit in the bowl perfect. A clock that had not lost a second since 1908.\n\nThe man who opened the door was ordinary in the specific way of people who have arranged never to be looked at twice.\n\n\"You're from the ninth floor,\" he said. \"I wondered when.\"\n\n\"You're stealing it.\"\n\n\"I'm holding it.\" He gestured her in, and the chair received her back like it had been built from a mold of her spine. \"Sit. You'll want to hear the arithmetic, you people always do.\"\n\nHis name had been Aurel. He'd been a hydrologist. Twenty years ago his daughter had drowned in a river he had personally certified safe — a one-in-nine-thousand confluence of rain and a failed gauge and a boy who could not swim well enough to reach her.\n\n\"One in nine thousand,\" he repeated. \"Do you understand? The universe reached into its pocket for a number that improbable and spent it on my daughter. So I thought: it's a currency, then. And currencies can be held.\"\n\n\"Held for what?\"\n\n\"Until it's safe.\" He looked past her at the roses. \"I'm building a reservoir. When it's full — truly full, all of it — nothing unlikely will ever happen anywhere again. No lightning finding the one man in the field. No tumor in the child of two healthy parents. No river. The world will run on the mean. Boring, and merciful.\"\n\nIlse thought of the coincidence rate. The bus arriving. The friend on the far platform, turning.\n\n\"And nothing good will happen either.\"\n\n\"Nothing good happens,\" Aurel said, with terrible patience. \"Things merely fail to go wrong, and we congratulate ourselves.\"\n\nShe did not argue with him. She had learned, in eleven years, that you cannot argue a man out of a ledger he balanced with his own child. Instead she asked to see the reservoir, and he took her down to the cellar where it hung in the dark, vast and quiet and shivering — every unspent kindness of a decade, every rescue that had not come.\n\nShe had brought nothing. No tools, no authority, no plan.\n\nBut the latch on the cellar door had been oiled to perfection, and it swung shut behind them without a sound, and in a house where nothing unlikely could occur, no one would ever come looking."
+    },
+    {
+      "slot": 12,
+      "baselineSlotModel": "sonnet",
+      "premise": "Every dream leaves behind a physical object by mor",
+      "names": [
+        "Ines"
+      ],
+      "places": [
+        "Osaka"
+      ],
+      "devices": [
+        "dream-objects-manifest",
+        "grief-denied",
+        "accumulation-crisis",
+        "impossible-longing",
+        "maternal-wisdom"
+      ],
+      "openingType": "object",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 769,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 2.6,
+        "emdashPer1k": 5.2
+      },
+      "text": "The lamp came first, on the morning after Ines dreamed of her grandmother's kitchen. She woke with the smell of scorched milk still in her sinuses and found, on the pillow beside her, a small brass oil lamp with a wick that had clearly burned.\n\nShe was thirty-one, and this had never happened before, and she assumed for most of that first day that someone had broken in.\n\nBy the end of the week she had a chair with one leg shorter than the others, a fistful of unfamiliar coins, a swimming medal engraved for a meet she had not attended, and a live moth in a jar, beating itself against the glass. The moth she let out the window. The rest she stacked in the corner of the bedroom, because what else do you do.\n\nShe read about it later, once she started looking. It had begun in March, all over, at slightly different hours depending on longitude. Nobody had explained it. There were physicists and there were priests and there were people selling drawer organizers, and none of them had explained it. Every night the world made a little more of itself, and every morning there was more to carry.\n\nThe economics went strange fast. A woman in Osaka dreamed a violin and it was a Stradivarius, or near enough that the auction house wept. Governments tried to induce productive dreaming and produced instead an enormous quantity of anxious paperwork and half-remembered corridors. Landfills filled with objects that had never been manufactured. There was talk of a heat problem, a mass problem, the universe quietly running a tab.\n\nInes mostly thought about her apartment.\n\nIt was small. She had known it was small when she signed the lease, but that had been a private knowledge, negotiable, and now it was a fact enforced nightly. The stack in the corner became a wall. The wall became a second room she could not enter. She sold what could be sold — the coins were Ottoman and worth something, the medal was worth nothing — and gave away what could be given, and still the bedroom shrank around her like a fist closing slowly over the course of a year.\n\nThe trouble was that she could not stop, and she could not choose. She tried, some nights, lying rigid, thinking hard about flat things, thin things, things that stack. She got a bicycle. She got a door with no frame, which she leaned against the wall and which stood there for months looking like an accusation.\n\nWhat she wanted, and never got, was her father.\n\nHe had died in February, a month before the world began emptying its pockets, and she dreamed of him constantly. They were not good dreams. In them he was usually busy, or on a train, or telling her something important through a closed window. And every morning she woke and looked and found a hat, a receipt, a set of keys to a car he'd sold in 2004, once a single black glove that fit neither of her hands and had a hole worn through the thumb exactly where he wore his through.\n\nNever him. Never even a photograph.\n\nShe kept those things separately. Not in the wall — in a box under the bed, which was itself an act of category, of deciding what the world owed her and what it merely gave. The glove she kept on top.\n\nIn the second year she moved out to her mother's, where there was a barn.\n\nHer mother had been dreaming of horses and receiving horseshoes, hundreds of them, rusted, of no use to anyone, and had taken to nailing them over the doorways for luck, until the house was so lucky it groaned. They sat in the kitchen and drank tea and did not mention that in one of them the barn was filling and in the other the barn was filling, and both barns were the same barn.\n\n\"It's not so bad,\" her mother said. \"It's proof you were somewhere.\"\n\nInes thought about that for a long time afterward. It was the only explanation she ever heard that she could stand, and it wasn't one — it was just a way of holding it.\n\nThat night she dreamed of nothing she could recall, and woke to find a smooth grey stone, the kind you'd pick up on a beach and put in your pocket and forget about, and turn up years later, and have absolutely no idea where it came from.\n\nShe put it in the box. It was, she decided, the correct box."
+    },
+    {
+      "slot": 13,
+      "baselineSlotModel": "sonnet",
+      "premise": "A mountain slowly walks across the continent once ",
+      "names": [
+        "Alma Reyes",
+        "Beatriz"
+      ],
+      "places": [
+        "Hesper Dome",
+        "Kettle Springs",
+        "New Halloway"
+      ],
+      "devices": [
+        "slow-catastrophe",
+        "scientific-mystery",
+        "generational-divide",
+        "existential-acceptance",
+        "cyclical-fate"
+      ],
+      "openingType": "object",
+      "endingCadence": "image",
+      "metrics": {
+        "words": 698,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 1.4,
+        "emdashPer1k": 2.9
+      },
+      "text": "The mountain's name, in the old survey records, was Hesper Dome. It sat in the northeast for eleven hundred years, and then it began to move.\n\nNobody agreed on the exact day. The Geological Service later placed the start at some point in early March, based on the rate of drift and where the anchoring shale had cracked. But the people in the valley towns knew earlier than that, because their dogs stopped sleeping and their wells went sour, and because Alma Reyes, who had lived at the foot of the north slope for eighty-one years, walked out one morning and said the shape of the sky was wrong.\n\nIt moved about four inches an hour. Slower in the mornings.\n\nThe first year was mostly panic, and then mostly paperwork. Three towns were relocated. Two highways were cut, rerouted, and then cut again when the projections were revised. A tent city of scientists sprang up at the trailing edge, where the earth closed behind the mountain like water behind a hull, and they drilled and sampled and argued about whether there was anything down there doing the moving or whether the moving was simply something the mountain did, the way water freezes, the way a seed splits.\n\nNobody found anything. There was granite, and then more granite, and beneath that the hot patient dark that is beneath everything.\n\nBy the fourth year it had become ordinary. A woman in Kettle Springs opened a diner at the leading edge and moved it twice a season on skids. Children on field trips were photographed against the enormous slow face of it, laughing, holding out their palms as though pushing. Cattle grazed on the flanks and were driven off in wide unhurried arcs. The trailing edge became a tourist attraction — a raw wound of upturned soil three miles across, steaming faintly in cold weather, full of things that had not seen light: fossilized shells, a Spanish stirrup, a rusted 1954 Chevrolet that had been lost and was now found, folded almost gently into the shape of a leaf.\n\nAlma Reyes did not relocate. She was given a stipend and a place in a town called New Halloway and she went there for eleven days and then came back and sat in a lawn chair on the ridge above her old house, watching the mountain go.\n\nHer granddaughter Beatriz drove up on weekends. They didn't talk much. The mountain made talking feel small.\n\n\"It'll be past the river by winter,\" Beatriz said once.\n\n\"Mm.\"\n\n\"They say it might reach the coast. Not for eight hundred years. But eventually.\"\n\nAlma thought about that. Eight hundred years was a length of time she had no use for, and yet here she was, sitting in its path, sharing an afternoon with it.\n\n\"It isn't going anywhere,\" she said.\n\n\"It's going west.\"\n\n\"That's not the same as going anywhere.\"\n\nBeatriz didn't understand that until much later, in a hospital corridor, waiting.\n\nThe mountain crossed the continent over the following centuries. It shouldered aside a small city that had refused, on principle, to move. It buried a war memorial and, four decades later, set it down again on the far side, tilted but intact, the names still legible. It changed a river's mind. It made a lake and then unmade it. In the state archives there are seventeen thousand photographs of it, from every angle, in every season, and if you flip through them fast the mountain does not appear to move at all — only the things around it, the roads and the trees and the fashions and the faces, flickering and rearranging like weather.\n\nIt reached the sea in the year the last person who remembered Alma Reyes died.\n\nIt did not stop at the water. It walked in, and kept walking, and for eleven years there was an island where no island had been, and gulls nested on it, and then there wasn't, and the water closed over the summit the way it closes over everything.\n\nThen the deep dark, and the long crossing, and somewhere on the far continent, in nine hundred years or so, a morning when the dogs won't sleep."
+    },
+    {
+      "slot": 14,
+      "baselineSlotModel": "sonnet",
+      "premise": "Memories can be planted like gardens.",
+      "names": [
+        "Elena",
+        "Fabiola",
+        "Yusra"
+      ],
+      "places": [
+        "The Bureau",
+        "Sector Four",
+        "Portugal"
+      ],
+      "devices": [
+        "inherited-plot",
+        "commissioned-subversion",
+        "benign-drift",
+        "blurred-agency",
+        "constructed-truth"
+      ],
+      "openingType": "other",
+      "endingCadence": "aphorism",
+      "metrics": {
+        "words": 713,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 7
+      },
+      "text": "The Bureau called them plots, which was a word doing two jobs at once.\n\nElena's plot was six feet by ten, in the eastern rows where the light came slantwise through the greenhouse panels. She had inherited it from a woman named Fabiola who had grown too old to kneel. The soil was good — dark, friable, threaded with the pale filaments that carried the encoding. You could not see the memories in it any more than you could see the flavor in a tomato. You had to wait.\n\nShe was planting a childhood.\n\nNot hers. That was the first rule they taught you: never your own. Your own memories, replanted, came up strange, doubled, recursive — people who tried it reported standing in a kitchen watching themselves stand in a kitchen, forever, until the recollection collapsed into vertigo. Elena grew memories for other people. Commissioned, mostly. A man in Sector Four wanted a grandmother he'd never had. A woman wanted the sensation of speaking Portuguese fluently at a dinner party in 1987, though she had never been to Portugal and 1987 was before her birth.\n\nThis plot was for a girl named Yusra, eleven years old, who had spent her entire life in a medical bay and would spend the rest of it there. The commission was simple, written in her mother's careful hand: *Summers. Ordinary ones. Nothing dramatic. Just let her have had some.*\n\nElena worked the seed in with two fingers. The seeds were dense little things, gray-brown, each one holding the compressed schema of an experience — not the experience itself but the conditions for it, the way an acorn holds not an oak but the argument for one. She had bred this strain herself over four seasons. *Summer, temperate, low-stakes.* It wanted full sun and a long germination.\n\nThe trouble with the work, the trouble nobody put in the brochures, was that memories were not machines. They grew. And growing things did what they liked.\n\nHer third season, Elena had planted a wedding for a widower. Straightforward: the ceremony he'd had, restored, since the original had been lost to a stroke that took a decade of him. She'd fed it, weeded it, harvested it at the correct moisture. And when he took it, he wept, and then he said: *There was a dog.*\n\nThere had been no dog at his wedding.\n\nBut there was one now, in the memory, a brown mutt asleep under the folding chairs, and he could describe the exact sound of its breathing, and he loved it. The soil had done that. Something in the substrate, some residue of the hundred lives that had passed through that plot, had put a dog in his wedding. Elena had filed the incident report. The Bureau logged it as *benign drift* and told her to keep going.\n\nThat was the thing she never said out loud, kneeling in the eastern rows: she did not think she was growing memories. She thought the soil was growing them, and she was only there to hold the light steady and pull the weeds — the invasive strains, the grief-vines that crept in from the fallow plots and could strangle a whole bed of ordinary Tuesdays.\n\nShe patted the last of the seed under and sat back on her heels. Ninety days. In ninety days there would be a harvest, and it would smell like cut grass and chlorine and someone's mother calling a name across a long yard, and it would contain some number of things Elena had not put there. A cousin, maybe. A particular yellow bicycle. A bee sting on the ankle that hurt and then, later, was funny.\n\nYusra would take it, and it would be true. That was the part the ethicists could never get past and the part Elena had stopped arguing about. It would be true the way anything in a person is true — because it was in there, and it had roots, and it flowered when the season came around.\n\nShe stood up. Her knees complained. Down the row, in Fabiola's old handwriting still legible on the stake, someone had written: *BE PATIENT. IT KNOWS WHAT IT'S DOING.*\n\nElena had never been sure whether that referred to the soil, or to her."
+    },
+    {
+      "slot": 15,
+      "baselineSlotModel": "sonnet",
+      "premise": "Animals begin speaking—but only to children, and t",
+      "names": [
+        "Maisie",
+        "Bergen"
+      ],
+      "places": [
+        "Lagos",
+        "Ontario",
+        "Uppsala",
+        "Rome"
+      ],
+      "devices": [
+        "animals-gain-speech",
+        "forbidden-why",
+        "child-only-gift",
+        "death-and-farewell",
+        "bittersweet-acceptance"
+      ],
+      "openingType": "dialogue",
+      "endingCadence": "aphorism",
+      "metrics": {
+        "words": 765,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 1.3,
+        "emdashPer1k": 3.9
+      },
+      "text": "The dog told Maisie first, on a Tuesday, while she was tying her shoe on the back step.\n\n\"Not that lace,\" he said. \"The other one's coming loose.\"\n\nMaisie looked at Bergen, who was eleven years old and had never been much for anything but sleeping in the warm rectangle by the sliding door. His mouth had moved. She had watched it move.\n\n\"You can talk.\"\n\n\"Fix your lace.\"\n\nShe fixed her lace. Then she said, \"Why can you talk?\"\n\nAnd Bergen turned his grey face away and looked out at the fence line, and said nothing at all, and did not say anything else for the rest of the day, though she followed him around the yard asking until her mother called her in.\n\nIt happened everywhere that week. In Lagos a girl's parakeet asked her to move its cage away from the window because the light hurt in the mornings. In Ontario a boy walking the treeline heard a crow tell him, matter-of-factly, that his uncle's truck had a bad tire. In hospitals the therapy dogs began saying names, and the children in the beds said the names back, and the nurses stood in doorways with charts going soft in their hands.\n\nThe adults could not hear it. That was the part that made the news. A father would stand three feet from his daughter while she carried on a full conversation with the cat, and he would hear only the ordinary noises of a cat, and his daughter's half of something.\n\nThey tried everything. Microphones caught nothing. High-speed film of a horse's mouth showed a horse's mouth. A team in Uppsala put a seven-year-old and a goat in a room with forty-one sensors and got forty-one flat lines and a transcript the child wrote out afterward in pencil, which said mostly that the goat was bored and wanted to go outside.\n\nThe children were interviewed, gently and then less gently. They all reported the same thing: the animals would talk about anything — weather, food, whether a person was kind, what they remembered of last winter — but the moment you asked *why*, they stopped. Not evasion. Not \"I can't say.\" Just a door closing, quietly, and the animal going back to being an animal until you talked about something else.\n\nMaisie asked Bergen ninety-one times over four months. She kept a tally in a notebook with a horse on the cover.\n\n\"Why do you talk to me?\"\n\nSilence, and the tail going slowly.\n\n\"Is it because I'm small?\"\n\nSilence.\n\n\"Is it because you're going to die soon?\"\n\nBergen put his chin on her foot. \"That's a rude question.\"\n\n\"Sorry.\"\n\n\"It's alright. You're allowed rude questions. You're the right size for them.\"\n\nShe wrote that down. Everyone was writing things down that year. There were committees. A theologian in Rome said one thing and a different theologian said the opposite, and both of them were fifty-eight years old, and neither of them had heard so much as a syllable from a pigeon.\n\nWhat nobody wanted to say out loud, in the end, was the obvious thing, which the children mostly figured out on their own and mostly didn't bother explaining, because explaining was an adult habit: the animals were not refusing to answer. They were refusing to answer *them*. The question \"why\" belonged to a way of talking that the whole arrangement was built to leave outside. To answer it would have been to hand the thing over to the people it wasn't for.\n\nBergen died in November, in the warm rectangle, which had moved across the floor as the sun got low and lazy.\n\nMaisie sat with him a long time. She was nine and she knew what she was looking at.\n\n\"You never told me why,\" she said.\n\nHe was very tired. His eyes were mostly shut.\n\n\"No,\" he agreed.\n\n\"Will you tell me now?\"\n\nAnd Bergen breathed out, and did not answer, and she understood that he wasn't being cruel, and she put her hand on his ribs and felt them go up, and go down, and go up.\n\nShe was fourteen when she stopped hearing them. It happened the way it happened to everyone — not a moment, just a gradual thinning, until one day she said something to a sparrow on a fence post and the sparrow was only a sparrow.\n\nShe didn't mind as much as she expected. She had already been told the important things. She just hadn't been told why, and by then she had come around to thinking that was probably the point."
+    },
+    {
+      "slot": 16,
+      "baselineSlotModel": "opus",
+      "premise": "The oceans slowly retreat, exposing impossible cit",
+      "names": [
+        "Mira"
+      ],
+      "places": [
+        "Puerto Deseado",
+        "Atlantic",
+        "Argentine Basin",
+        "Site 340"
+      ],
+      "devices": [
+        "tide-recession",
+        "submerged-city",
+        "impossible-organisms",
+        "subsonic-signal",
+        "generational-legacy",
+        "intentional-revelation"
+      ],
+      "openingType": "action",
+      "endingCadence": "aphorism",
+      "metrics": {
+        "words": 745,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 4
+      },
+      "text": "The tide went out in 1997 and never fully came back.\n\nAt first it was called a statistical anomaly. Then a trend. Then, after the Sargasso shelf stood up out of the water like a drowned man rising, they stopped calling it anything and just watched.\n\nMira's grandmother had been a fisherwoman in Puerto Deseado. Mira herself had never touched living seawater. By the time she was old enough to want to, the Atlantic had pulled back forty kilometers from the old coast, leaving a plain of grey silt and rusting hulls and, further out, the things.\n\nShe surveyed them for the Commission. That was the job title: Surveyor, Exposed Benthic Heritage. In practice it meant she drove a tracked rover across salt flats for eleven hours a day, photographing structures that had no business existing and filing reports that no one seemed to read.\n\nThe city she was mapping that autumn had no name yet. The Commission called it Site 340. It sat in what had been the Argentine Basin, four thousand meters below the old surface, and it was built of something that resembled coral the way a cathedral resembles a pile of bricks. Towers spiraled. Streets ran in patterns that were not quite grids and not quite spirals and made her eyes water if she tried to follow them for too long. Nothing in it was sized for a human body. The doorways were low and wide. The stairs, if they were stairs, rose in increments of nine centimeters.\n\nShe had been told, in the briefing, that there was no consensus on whether it had been made. Geology had theories. So did biology. The theories did not agree, and the men who held them had stopped speaking to each other in 2019.\n\nWhat no one talked about, in briefings or papers, was that the city was not empty.\n\nThe first one she saw was in a courtyard, if it was a courtyard. It had the general shape of a sea star scaled up to the size of a delivery van, with a hide like wet slate, and it was moving — slowly, so slowly that she had watched it for six minutes before she understood that the shadow beneath it had shifted. It was not dying. That was the thing. Everything at that depth should have burst or boiled or simply stopped when the pressure left. This one had reorganized. Its underside had grown a kind of bellows.\n\nShe reported it. The Commission thanked her and asked her to continue mapping the eastern quarter.\n\nThere were more, after that. A ribbon of translucent tissue thirty meters long that draped itself over a tower and pulsed at intervals of roughly four hours. Something in a flooded basin that had eyes arranged in a ring and did not appear to use them. Colonies of small pale things that built structures out of their own shed material, structures that were, at a scale of one to two hundred, unmistakably the city itself.\n\nMira wrote that observation down twice and then deleted it both times.\n\nIn November she found the sound. It came up through the rover's frame more than through the air — a slow beat, subsonic, spaced about nine seconds apart. She parked and sat with her hand on the dash and felt it in her back teeth. It went on for two hours. When it stopped, every pale colony in view had turned to face the same direction: east, toward what was left of the water.\n\nShe thought about her grandmother then, hauling nets in the dark, cursing the cold, throwing back what was too small. A woman who had spent forty years on the surface of a thing and never once wondered what the thing might have been doing underneath her.\n\nThe sea kept going out. The models said it would stop. The models had said that in 1999, and 2004, and 2031.\n\nMira filed her report that evening — coordinates, dimensions, photographs, the sound described in flat technical language with a note that the source could not be localized. She sent it to the Commission. Then she sat outside the rover in the enormous silence and looked east, where the horizon was and where the water had gone, and she understood, without any particular fear, that the retreat was not an emptying.\n\nIt was an uncovering. And uncovering is a thing done with intent, by someone, for someone else to see."
+    },
+    {
+      "slot": 17,
+      "baselineSlotModel": "opus",
+      "premise": "Time freezes everywhere except inside libraries.",
+      "names": [
+        "Marisol",
+        "Terrence",
+        "Priya",
+        "Ada",
+        "Mole"
+      ],
+      "places": [
+        "Ferrand Street",
+        "Library"
+      ],
+      "devices": [
+        "time-freeze",
+        "forced-isolation",
+        "miraculous-sustenance",
+        "community-building",
+        "acceptance-of-fate",
+        "meaning-through-knowledge"
+      ],
+      "openingType": "action",
+      "endingCadence": "aphorism",
+      "metrics": {
+        "words": 751,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 4
+      },
+      "text": "The clocks stopped at 4:17 on a Tuesday in November, and nobody noticed for a long time, because nobody was looking at a clock.\n\nMarisol noticed because she was shelving. She had a cart of returns and she was halfway down the 900s when the light coming through the high windows stopped being light that moved. It had been the low slanting kind, dust turning over in it. Then the dust simply hung. She watched a mote sit in the air like a nail driven into nothing.\n\nShe went to the front doors. Outside, a man on the steps was frozen mid-sneeze, coat flaring, one hand not quite to his face. A pigeon hung a foot above the pavement with its wings down. The traffic on Ferrand Street was a solid thing, a sculpture of itself.\n\nMarisol pushed the door open and the door opened. She put her hand out past the frame and her hand stopped. Not painfully. It simply arrived at a place where there was no next moment for it to occupy, and hung there like the pigeon, and she pulled it back and it was warm again and hers.\n\nThere were eleven people in the library.\n\nThat was the first count. She did it twice more over the following days, when days still meant something, and got eleven each time, and then she stopped counting because it seemed unkind — as though she were confirming an inventory rather than knowing a group of people.\n\nOld Terrence had been asleep in the periodicals and stayed asleep for what Marisol guessed was two hours. When he woke he took the news with terrible calm. He'd been a merchant sailor. He said the sea did things like this, or near enough, and asked whether the coffee machine still worked. It did. Everything inside worked. The lights, the taps, the toilets, the ancient photocopier. Whatever had frozen the world had drawn a careful line around them and left the utilities on inside it, the way you'd leave a lamp burning for someone who'd gone out.\n\nThe food was the trouble, and then it wasn't. The staff fridge held four yogurts, a sandwich, and half a birthday cake for a woman named Priya who was not there. They rationed it. On the fourth day, when they went to the fridge expecting the last of the cake, there were four yogurts, a sandwich, and half a cake. Nobody said anything for a while. Then Terrence said, well, and took a yogurt.\n\nThey made a life. This is the part Marisol thinks about most, later. They made a life with astonishing speed. The two teenagers who had come in to use the computers organized a lending system so that no one hoarded the good novels. A woman named Ada, who had been an accountant and had come in only to escape a phone call, taught herself Portuguese and then taught it to three others, badly, and they spoke it to each other at meals as a joke that stopped being a joke. A man whose name Marisol never learned — he asked to be called Mole and would not explain — read every book on the third floor, in order, and reported on them nightly from the reference desk like a war correspondent. The children's section became the sleeping room, because of the carpet.\n\nNobody tried to leave after the first week. You could stand in the doorway and put your face into the stopped air and feel the enormous patience of it, and you came away understanding that it wasn't a wall. It was simply where things ended.\n\nMarisol read more in that time than in the thirty-one years before it. She read the way you eat when you have been hungry a long while and did not know it. She read on the floor between the stacks with her back against the cold metal. She found a book about glaciers and learned that ice appears to be still and is not, that it moves at a pace which requires a different word than moving.\n\nShe thought: that's us out there. That's the whole world out there, moving so slowly it looks like stone.\n\nAnd in here, she thought, we are the only fast thing left. All eleven of us, burning through our hours in a building full of dead people's sentences, and the sentences are what's keeping us lit.\n\nShe never learned why. That bothered the others more than it bothered her."
+    },
+    {
+      "slot": 18,
+      "baselineSlotModel": "opus",
+      "premise": "People can swap memories like possessions",
+      "names": [
+        "Naomi",
+        "Ilsa"
+      ],
+      "places": [
+        "Dorset Street",
+        "Ravensworth",
+        "Alberta",
+        "Peckham"
+      ],
+      "devices": [
+        "memory-as-commodity",
+        "unintended-separation",
+        "phantom-skill",
+        "existential-irony",
+        "invisible-inheritance"
+      ],
+      "openingType": "action",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 752,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 4,
+        "emdashPer1k": 6.6
+      },
+      "text": "The exchange was in a room off Dorset Street, above a shop that sold reconditioned kettles. Naomi had been there four times before, always as a seller.\n\n\"You know the terms,\" said the broker, a heavy woman named Ilsa who wore reading glasses on a chain and had a way of not blinking. \"Once it's out, it's out. We don't do returns. People come back crying about it, and I tell them the same thing I'm telling you now.\"\n\n\"I know the terms.\"\n\n\"Say what you're selling.\"\n\n\"August 1998. My father teaching me to swim at Ravensworth. About forty minutes of it. The full thing — the water, him holding my chin up, what he said afterward in the car.\"\n\nIlsa wrote it down in a ledger with actual pen and paper, which Naomi had always found reassuring, though she couldn't say why. \"What did he say in the car?\"\n\n\"That's part of what I'm selling.\"\n\n\"I need to know it's not damaged goods. Half these swimming lessons come with a drowning attached.\"\n\nNaomi looked at the window, which had a crack in it shaped like a river delta. \"He said I was brave. He said he'd been afraid of the water until he was twenty-six and he was glad I wouldn't have to carry that.\"\n\nIlsa nodded slowly and wrote something else. \"That's good stock. That's clean. Four hundred.\"\n\n\"Six.\"\n\n\"Four fifty, and I'm being generous because it has a father in it. Fathers move.\"\n\nNaomi took the four fifty. The extraction took nine minutes and afterward there was a smooth place where the thing had been, not painful, more like the feeling of a tooth pulled long enough ago that the tongue has stopped searching.\n\nShe spent the money on rent and on a coat, and in November she came back.\n\n\"Buying this time,\" she said.\n\n\"What are you after?\"\n\n\"Something with snow in it.\"\n\nIlsa brought out the case. This was the part Naomi had never seen from this side — the little glass ampoules with their handwritten labels, each one somebody's afternoon. *Christmas 1974, four children, one dog.* *First snow after moving to Alberta, age 31.* *Sledding, unspecified year, includes broken wrist.*\n\n\"That last one's cheap for a reason,\" Ilsa said.\n\nNaomi picked up the Alberta one. Two hundred and twenty. It came from a woman named or once named — the labels didn't say — and when it went in, it went in sideways, the way they do, arriving already remembered, already old.\n\nShe stood in a doorway on Dorset Street and had it: the flat white land, the shock of the cold in her nose, the strange elation of being somewhere with no one who knew her. It was a good memory. It was better than most of hers had been. And it was completely, irreducibly not hers, in the way a beautiful coat bought secondhand still holds the shape of another woman's shoulders.\n\nThe trouble came later, the way Ilsa always said it would, though never in the way people expected.\n\nIt was March. Naomi was in a swimming pool in Peckham because a friend had a membership and a spare guest pass, and she got into the shallow end and found that her body knew what to do. It knew how to put its face in. It knew how to keep the chin tilted just so.\n\nShe stood in four feet of water for a long time and understood that she had sold the wrong half. The memory was gone — she could not see her father's hands, could not hear whatever he'd said in the car, had no image of Ravensworth at all except the fact of its name in a ledger. But the swimming had stayed. The bravery had stayed. It was in her arms.\n\nShe swam a length badly and got out and sat on the tiled edge, dripping, thinking about the woman in Alberta who was somewhere right now not remembering snow, and who probably still, without knowing why, felt something lift in her chest when the temperature dropped.\n\nThat was the thing nobody put in the ledger. You could sell what you remembered. You couldn't sell what it had made of you. The memories went out into the world and got worn by strangers, and meanwhile every person walked around shaped by a thousand afternoons they'd sold off years ago, kind for reasons they'd forgotten, afraid of water they'd never seen.\n\nNaomi dried off. She kept the guest pass."
+    },
+    {
+      "slot": 19,
+      "baselineSlotModel": "opus",
+      "premise": "A mysterious train arrives once every decade, stop",
+      "names": [
+        "Grandmother",
+        "Marta Kessel",
+        "Ferrow",
+        "Teo",
+        "Nell Auber",
+        "Vessy Twins"
+      ],
+      "places": [
+        "Ilverry"
+      ],
+      "devices": [
+        "mysterious-train",
+        "generational-legacy",
+        "impossible-choice",
+        "transformation-through-journey",
+        "self-discovery",
+        "bittersweet-acceptance"
+      ],
+      "openingType": "tenure-number",
+      "endingCadence": "summary",
+      "metrics": {
+        "words": 701,
+        "weatherOpen": true,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 5.7
+      },
+      "text": "The last winter the train came, my grandmother stood on the platform at Ilverry with her coat buttoned wrong and did not board.\n\nI know this because she told me, and because Ilverry does not appear on any map, and because she told me the story every year until she died, always the same way, always ending at the moment she turned back toward town.\n\nThe platform sits east of the grain elevators, on a spur of rail that goes nowhere either direction. Weeds grow between the ties. Once every ten years, in the first week after the frost sets, the rails hum, and then the train is simply there — not arriving, exactly. Present, the way a word is present in your mouth before you say it.\n\nI was thirty-one the year it came for me.\n\nHalf the town walked out to watch. This is the custom. You do not have to board, but you have to see it, so that afterward everyone has agreed on the same impossible thing. The cars were the dull green of old pond water, no windows on the lower half, and a lettering along the side in an alphabet that made your eyes water if you looked too long. Two doors opened. Nobody stepped out. Nobody ever steps out.\n\nOld Marta Kessel went first, as she'd promised for a decade. She was eighty-four and had buried two husbands and she climbed those steps like a woman going upstairs to bed. Then the Ferrow boy, who had nothing here. Then a woman I didn't know, which meant she'd come from one of the other towns, the ones like ours.\n\nI stood in the cold with my hands in my pockets and thought about the returners.\n\nThey come back the following decade. Not all — maybe a third. They step off the same doors, and they are the age they left, and they are not the same. My uncle Teo boarded at twenty-six and returned at twenty-six, and he was gentler afterward, but he could no longer bear to be indoors during rain. He would go out and stand in it. He said the sound was too beautiful to hear through a roof. That was all that was different. That was everything.\n\nOthers come back changed the way a room is changed when the furniture has been moved an inch. Nell Auber returned unable to lie, not unwilling — unable, her jaw locking on the words. It ruined her marriage and made her the most trusted woman in three counties. And the Vessy twins came back and would not speak of it, and grew old holding hands, and seemed to me, for my entire childhood, the two most contented people alive.\n\nNobody who returns can explain where they went. It isn't secrecy. Ask them and they open their mouths and you can see them reaching for something that has no handle. Marta's daughter asked her once, years ago, before Marta ever boarded, what she thought was out there. Marta said: I think it's the part of your life you didn't take.\n\nI did not board. I want to be honest about that, because the story people tell about me now has me stepping onto the second car, and it isn't true.\n\nI stood on the platform until the doors sealed and the humming stopped and the train was not there anymore — the same way, in reverse, the way a word is gone once you've said it. And I walked back into town past the grain elevators and I understood my grandmother for the first time in my life. She had not been afraid. She had looked at whatever waited past that threshold and found she already had a version of herself she was unwilling to trade.\n\nThat's the thing nobody tells you about the train. Everyone assumes the boarding is the choice. But there are two doors and two decisions, and only one of them is made in front of witnesses.\n\nI have nine years left before the rails hum again. I am not certain I'll be strong enough a second time, and I am no longer sure that strength is what I called it."
+    },
+    {
+      "slot": 20,
+      "baselineSlotModel": "opus",
+      "premise": "A city wakes up one day to discover every person's",
+      "names": [
+        "Nadia Osei",
+        "Tobias Rendon",
+        "Priya Chaudhary",
+        "Dev"
+      ],
+      "places": [
+        "Bergen Street"
+      ],
+      "devices": [
+        "forced-intimacy",
+        "mundane-inner-lives",
+        "social-adaptation",
+        "empathy-through-exposure",
+        "bittersweet-wisdom"
+      ],
+      "openingType": "action",
+      "endingCadence": "aphorism",
+      "metrics": {
+        "words": 751,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 9.3
+      },
+      "text": "At 6:14 on a Tuesday morning, the city discovered it had lost its interior.\n\nIt began with Nadia Osei, who woke to find her husband's dreaming laid across the ceiling of their bedroom like weather. Not words exactly. Something between weather and words — a slow churn above his side of the bed, gray-green, streaked with the particular anxiety of a man who has been putting off a phone call to his mother for eleven days. Nadia watched it for a long time. Then she looked up at her own ceiling, and saw that she had been thinking about how much she loved him, and also about whether she had married too early, and the two thoughts were braided together so tightly that she could not have said where one ended.\n\nBy seven, the buses were chaos.\n\nNot violence — that came later, in small pockets, and less than anyone expected. The chaos was of a stranger kind. A man on the 14 bus discovered that the woman across from him had been silently composing a grocery list for forty minutes: *eggs, the good bread, something for Dev's lunch, eggs — did I already say eggs.* He had assumed, on the basis of her face, that she was suffering. She had assumed, on the basis of his, that he was dangerous. He was thinking about a documentary on octopuses.\n\nThis was the first surprise, and the largest: how boring it all was. The city had braced, in the ninety seconds it had to brace, for a revelation of universal savagery. What it got was eggs. What it got was *did I lock it, did I lock it, I locked it.* What it got was ten thousand people running the same four sentences on a loop and being embarrassed about it in front of each other.\n\nTobias Rendon, forty-one, a claims adjuster, walked to work with his head bare to the sky and understood that he was not, as he had privately feared since adolescence, a monster wearing a person. He was a man who thought about lunch. He wept a little on Bergen Street and everybody saw why, and nobody minded, because three other people were weeping for reasons roughly as small.\n\nThe cruelties were real, though. A daughter learned her father had never quite forgiven her for being born with her mother's face. A congregation watched its pastor's faith flicker like a bad bulb — on, off, on — and the awful thing was not that it flickered but that he had known this about himself for years and preached anyway, out of what the whole room could now see was love. Two co-workers who had been politely warring for a decade discovered they had each been protecting the other from a truth the other already knew.\n\nBy afternoon the city had developed manners. New ones. You did not look up. That was the rule, unwritten and instantly universal — you kept your eyes at chest height and you moved through the crowd as through a library, and if something drifted into your peripheral vision you let it drift back out. Waiters learned to take orders from the mouth. A generation of teenagers, for whom this was the worst thing that had ever happened, invented within six hours a way of walking that involved a hood and a low ceiling and a great deal of dignity.\n\nThere were people who looked up anyway. Hospitals, mostly. A nurse named Priya Chaudhary stopped speaking entirely during her shift, because she no longer had to, because the dying man in 6 was thinking *cold* and she could bring a blanket without asking him to spend one of his remaining words on the request. She said afterward that it had been the best day of her working life and that she hoped it never happened again.\n\nIt didn't. By Thursday the sky above the city had cleared, and the interiors folded back where they belonged, and everybody had their privacy again and did not entirely know what to do with it.\n\nWhat lingered was smaller than anyone expected, and stubborner. For about a year afterward, people in that city were unusually gentle with strangers on public transit. They had seen the eggs. They knew what was up there — not the monsters, never the monsters, just the endless soft repetition of a mind trying to get through Tuesday. They had assumed, all their lives, that they were the only one holding something so unremarkable."
+    },
+    {
+      "slot": 21,
+      "baselineSlotModel": "opus",
+      "premise": "The world's luck is finite, and someone has begun ",
+      "names": [
+        "Mrs. Adeyemi",
+        "Vessel",
+        "Priya Raghunathan"
+      ],
+      "places": [
+        "Fortuna Street station",
+        "Manila"
+      ],
+      "devices": [
+        "supernatural-theft",
+        "victim-pursuit",
+        "confrontation",
+        "moral-ambiguity",
+        "philosophical-justification"
+      ],
+      "openingType": "object",
+      "endingCadence": "dialogue",
+      "metrics": {
+        "words": 765,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 3.9
+      },
+      "text": "The kiosk at the Fortuna Street station had been dispensing scratch tickets for eleven years, and in that time it had produced exactly one winner. Mrs. Adeyemi knew this because she had bought a ticket every Tuesday for eleven years and the winner had been hers: forty dollars, 2019, spent on a coat.\n\nShe was buying her Tuesday ticket when the man in the gray anorak stepped up beside her, and she felt something go out of her the way heat goes out of an open door.\n\nIt was not painful. That was what she would tell people afterward, when nobody believed her. It was only that the world got slightly harder. Her key, which had always turned in her front door on the first try, needed three tries that evening. The bus she never missed pulled away as she reached for it. Her ticket, when she scratched it, showed three lemons and a cherry — not a loss, exactly, but a shape that in eleven years she had never once seen, the shape of a machine that had stopped bothering to pretend.\n\nThe man in the anorak was named Vessel, or that was what he called himself, and he had begun small. A pinch from a bookmaker. A skim from a casino floor, where the luck lay thick as grease and nobody noticed a little missing. He had discovered the trick at thirty-one, in a hospital corridor, waiting on a scan that came back clean when it had no business coming back clean. He had felt the borrowed weight of it settle into him and understood, with the clarity of a man reading his own name, that it had come from somewhere. That someone, elsewhere, had received worse news than they had earned.\n\nNothing is made, Vessel thought. Everything is moved.\n\nSo he moved it.\n\nBy the second year he could walk a subway platform and come off it swollen. The effects were dispersed, deniable — a spike in near-misses, a bad month for a neighborhood, an inexplicable cluster of dropped catches on a Sunday league pitch. The actuaries noticed before the mystics did. Somewhere in a beige office, a woman named Priya Raghunathan was writing a memo about anomalous tail risk that nobody would read for another nine months.\n\nWhat Vessel did with the luck was the part nobody could have guessed. He did not gamble. He did not buy lottery tickets or court women or angle for promotions. He rented a room above a laundromat and sat in it and did nothing at all, and this was because he had learned that luck, once taken, does not stay. It seeps. It wants to be elsewhere. Holding it was like holding a fistful of seawater, and every hour it drained out of him, back into the world, but *scattered* — dispersed evenly across seven billion people, thinned to nothing, worthless.\n\nHe was not a thief so much as a leak.\n\nHe had done the arithmetic. He had been doing it for years, on the backs of envelopes. Every gram he pulled from Fortuna Street would be back in the world within a day, but it would be *everywhere*, and everywhere is the same as nowhere. The luck of a woman who bought a Tuesday ticket for eleven years was concentrated, was *hers*, was a real thing with a shape. Redistributed, it became a millionth of a millionth of an increment in the odds of a stranger in Manila not stubbing his toe.\n\nVessel understood this. He kept doing it anyway. That was the part he could not explain, not even to himself, on the nights when the room above the laundromat filled up with the smell of other people's clean clothes.\n\nMrs. Adeyemi came looking for him in the fourth year. She had followed the thinning the way you follow a draft to a broken window: bad Tuesdays, then bad streets, then a bad building. She climbed the stairs and knocked and he opened the door, gray anorak, unremarkable face, and she saw at once that he was not swollen with anything. He was the emptiest man she had ever seen.\n\n\"Give it back,\" she said.\n\n\"I can't.\" He stood aside to let her in, which surprised them both. \"It doesn't come back. It only spreads.\"\n\nShe looked past him at the bare room, the envelopes, the arithmetic.\n\n\"Then why?\"\n\nVessel considered the question for a long moment, as though it had never occurred to him that it might have an answer.\n\n\"Because it was never fair,\" he said, \"that anyone had any.\""
+    },
+    {
+      "slot": 22,
+      "baselineSlotModel": "opus",
+      "premise": "Every dream leaves behind a physical object by mor",
+      "names": [
+        "Marguerite",
+        "Bo"
+      ],
+      "places": [
+        "Osaka",
+        "Lisbon"
+      ],
+      "devices": [
+        "dream-objects-manifest",
+        "collective-mystery",
+        "object-origins-revealed",
+        "impossible-assembly",
+        "maternal-yearning",
+        "hope-against-unknowing"
+      ],
+      "openingType": "object",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 712,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 7
+      },
+      "text": "The kettle had boiled itself dry by the time Marguerite came down, which meant she'd dreamed about her mother again. Steam dreams always did that. She turned off the burner and looked around the kitchen for what the night had left.\n\nIt was on the windowsill: a brass button, the kind that came off a coat sleeve, tarnished green in the grooves. She turned it over. Nothing engraved. She put it in the jar on the counter with the others.\n\nThe rule, as far as anyone had worked it out, was one object per dream, deposited somewhere within twenty feet of the sleeper, appearing in the last minute before waking. Nobody knew what selected them. The relationship between the dream and the object was the great unsolved problem of the age, and had produced three competing schools, a quarterly journal, and a good deal of divorce.\n\nMarguerite had dreamed of her mother — specifically, of her mother standing in a doorway saying something inaudible over the noise of a train — and gotten a button. She had dreamed of drowning, twice, and gotten a wooden spoon and a pair of reading glasses in a prescription that matched nobody she knew. She had dreamed of nothing at all, a gray flat nothing, and woken to find a live moth in a jar that had been empty and sealed.\n\nHer upstairs neighbor Bo kept a spreadsheet. He had four thousand entries and a theory that the objects were not symbols but *residue* — that dreaming was a manufacturing process, and these were the offcuts, the shavings, meaningless the way sawdust is meaningless. Bo was a machinist and thought in those terms. He was probably right, Marguerite thought, and it did not help at all.\n\nThe trouble started when the objects began to match.\n\nIt was Bo who noticed. He came down one Tuesday with his laptop under his arm and a look on his face like he'd found a crack in a load-bearing wall. He'd been cross-referencing with a forum, thousands of people logging their morning finds, and he'd found clusters. On the night of the eleventh, two hundred and six people across four continents had all woken to a small chip of blue-glazed pottery. On the fourteenth, three hundred and eleven people found a single dried pea. Not similar objects. Identical ones — same glaze, same chip pattern, same wrinkle in the pea's skin.\n\n\"They're not copies,\" Bo said. \"I got two of the eleventh-night people to mail me theirs. Look.\"\n\nHe put them on the table. Two chips of blue pottery. They fit together along a broken edge, and the fit was perfect, and Marguerite understood without wanting to that somewhere out in the world there were two hundred and four more pieces and that they made a bowl.\n\n\"So we're all dreaming the same thing,\" she said.\n\n\"No. That's the part. I interviewed forty of them. Completely different dreams. A woman in Osaka dreamed about a job interview. A kid in Lisbon dreamed about a dog he doesn't have. There's no common content.\"\n\n\"Then what's assembling the bowl?\"\n\nBo didn't answer, because there wasn't one, and they both sat with that for a while.\n\nMarguerite went home to her jar. She poured it out on the table: the button, the spoon, the glasses, seventeen keys, a thimble, a dozen small ordinary things. She'd always assumed they were hers — that her sleep had made them out of her own material, the way a body makes a fingernail. But if the pottery came from somewhere else, then so did the button, and it had belonged to a coat, and the coat had belonged to someone, and the someone had had a doorway and a train.\n\nShe thought about her mother in the doorway, saying something she couldn't hear.\n\nShe held the button up to the window. The tarnish was real. The wear on the shank was real, thirty or forty years of being pushed through a hole and pulled back out. Nobody had made this last night. It had simply *arrived* last night, the way a letter arrives, having been written long before.\n\nShe went to bed early, and lay there a long while, hoping to be sent the rest of it."
+    },
+    {
+      "slot": 23,
+      "baselineSlotModel": "opus",
+      "premise": "A mountain slowly walks across the continent once ",
+      "names": [
+        "Ilse",
+        "Bertrand"
+      ],
+      "places": [
+        "Threshold",
+        "the valley",
+        "the chapel",
+        "the mill",
+        "the tannery",
+        "the square"
+      ],
+      "devices": [
+        "ancestral-measurement",
+        "accelerating-revelation",
+        "sentient-mountain",
+        "measured-exodus",
+        "perpetual-witness"
+      ],
+      "openingType": "tenure-number",
+      "endingCadence": "action",
+      "metrics": {
+        "words": 768,
+        "weatherOpen": false,
+        "tenureOpen": false,
+        "ledgerPer1k": 0,
+        "emdashPer1k": 6.5
+      },
+      "text": "The mountain was called Threshold, and it had been in the valley for nine hundred and ninety-one years.\n\nIlse's grandmother had taught her to measure it. Not the height — anyone could do that with a stick and some arithmetic — but the lean. Every autumn, on the first morning of frost, you drove a brass pin into the stone of the old chapel step and sighted along it to the notch on Threshold's eastern shoulder. You wrote down the number. That was all. The Kessler women had been writing down the number since before the chapel had a roof.\n\nThe numbers went in a book, and the book lived in a drawer, and the drawer smelled of tallow and mouse.\n\n\"It's not walking,\" said Bertrand, who ran the mill and considered himself a rational man. \"Mountains don't walk. What you're measuring is your own eyes getting old.\"\n\n\"My eyes are twenty-six,\" said Ilse.\n\n\"Your grandmother's weren't.\"\n\nShe let him have it. It was easier than explaining that the lean had been consistent across four generations of eyes, that it accelerated in a curve you could plot, that in the last decade the notch had crept a full thumb's width against the pin and the creep was getting faster. Bertrand did not want a curve. He wanted flour.\n\nBut others came. The old ones, mostly, who had grown up with the story the way children grow up with a scar they don't remember getting. They came to the drawer and asked her to read the numbers aloud, and she did, and they nodded, and they went home and began the slow quiet work of deciding what could be carried.\n\nIn the spring of the nine hundred ninety-eighth year, the wells changed. Not dried — changed. The water came up cold and tasting of iron, and in the deep shaft behind the tannery it came up warm. Ilse climbed the eastern slope with a rope and a lamp and found what her grandmother's book had described in a hand grown shaky: the seams. Long horizontal fissures in the rock, packed with a grey clay that was not clay, that flexed under her thumb like the sole of a boot.\n\nShe sat with her hand pressed to it for a long time. It was not warm. It was not cold. It was simply not stone, and she understood, in a way that had nothing to do with the numbers, that the mountain was not a place. It was a thing that had stopped in a place, the way a person stops on a road to rest, and had been resting for as long as anyone had bothered to look.\n\nThe village argued for two years. This was reasonable. Threshold sheltered them from the north wind; its runoff filled their cisterns; its shadow set the hours of their working day. Some said the movement was so slow that a house could be jacked and rolled a handspan a year and never miss a harvest. Some said the movement would not stay slow — that a thing which had gathered a thousand years of intention would not spend it politely.\n\nIlse did not argue. She measured. She made copies of the book. She taught the brass-pin method to eleven children, including three from the town downriver who thought it was a game, and she made each of them recite the numbers back until the numbers lived in them.\n\nIn the autumn of the thousandth year, the frost came early. She drove the pin. She sighted. The notch had moved not a thumb's width but a hand's, in a single season, and along the base of the mountain the ground had begun to fold like cloth pushed across a table.\n\nShe wrote the number down. Then she closed the book, carried it out into the square, and rang the chapel bell — not the alarm pattern, which would have caused panic, but the slow tolling used for weddings and departures, which meant only: *come, and bring what you meant to bring.*\n\nThey went east, toward the sea, in no great hurry, in a line four miles long.\n\nBehind them, over the following eleven years, Threshold left the valley. It took the chapel with it, and the mill, and the drawer that smelled of tallow. It went south-southwest at a pace no one alive would have called a pace, and it did not look back, because it had no way of doing so, and because there was nothing in the gesture that would have been useful to it.\n\nThe children downriver kept driving pins."
+    }
+  ]
+}

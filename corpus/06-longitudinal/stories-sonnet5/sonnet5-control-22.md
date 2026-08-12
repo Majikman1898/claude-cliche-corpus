@@ -1,0 +1,20 @@
+# Exp 06 wave 2 - Sonnet 5 control story, slot 22
+*Model: claude-sonnet-5 | Written 2026-07-28 | Premise: Every dream leaves behind a physical object by mor...*
+
+The dream left behind a spoon.
+
+It sat on Marisol's nightstand at 6:14 a.m., catching the gray window light — not one of her spoons, thinner in the neck, bowl slightly too shallow, as if made by someone who had heard spoons described but never held one. She hadn't dreamed of a spoon. She'd dreamed of her grandmother's kitchen in Guadalajara, tiles the color of a bruise, and a conversation she couldn't now remember the words of, only the feeling of being forgiven for something.
+
+This was the forty-first object. She kept them in a shoebox under the bed, because the news had said not to throw them away, not until the scientists understood what they were, though eleven months in nobody understood anything. A brass button. A child's shoe, size 4, never worn. A key that opened nothing she owned. A pinecone that smelled faintly of her father's aftershave, though her father had never been in the dream that produced it, or so she thought — she could never be sure what a dream had actually contained, only what it left on the nightstand like a receipt for a purchase she hadn't agreed to make.
+
+The world had adjusted the way it adjusts to everything, with think pieces and then merchandise and then indifference. There were dream-object appraisers now, on television, holding up a stranger's stone or spool of thread and speculating about its emotional provenance. There were people who dreamed on purpose, chasing objects, drinking melatonin and reciting the name of someone they wanted to see again, waking to nothing, or worse, waking to a paperclip, a single ordinary paperclip, when they'd hoped for a photograph, a lock of hair, some evidence that the dead were still composing themselves somewhere and sending word.
+
+Marisol picked up the spoon and weighed it in her palm. It was warm, they were always faintly warm for the first hour, cooling at the rate of a fresh loaf of bread. She thought of her grandmother's hands, how they'd smelled of cumin no matter how many times they were washed, and she wondered if the spoon was a fragment of an actual spoon that had existed in that kitchen thirty years ago, worn thin by soup and stirred beans, or if it was something newer — a spoon made only for this, manufactured overnight by whatever factory of the unconscious produced these things, shipped across the border between sleep and the waking room with no invoice, no explanation.
+
+Her husband found the objects boring, or said he did, though she'd caught him once turning the little brass button over and over between his fingers with a concentration that looked like grief. He never dreamed of anything, or never remembered it, and so he woke to nothing, every morning, an empty nightstand, and she had begun to suspect this was its own kind of object — an absence with weight, something he carried into the kitchen and set down nowhere, all day.
+
+She put the spoon in the shoebox with the others, sliding it in beside the pinecone so it wouldn't scratch the key. Forty-one now. If she lived to seventy, at this rate, she calculated it out sometimes, doing the arithmetic instead of sleeping — she would have some fourteen thousand objects by the end, a museum of a life's unconscious, more objects than days she could account for, and she wondered who would go through the shoeboxes when she was gone, whether her daughter would understand that the pinecone meant something, that the shoe with no matching foot had cost her a week of sleepless nights trying to remember whose it was.
+
+Downstairs the coffee maker clicked on. Outside, a truck idled, and somewhere in the building a neighbor's alarm went off, muffled, insistent, the ordinary business of a Tuesday continuing regardless.
+
+She closed the shoebox and pushed it back under the bed with her foot, the way you'd close a door on a room you weren't ready to finish furnishing, and went down to make breakfast for a family that, lately, she was no longer sure she recognized fully awake.

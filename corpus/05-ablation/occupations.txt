@@ -1,0 +1,25 @@
+﻿Blacksmith
+Botanist
+Podcaster
+CIA Agent
+Courier
+Detective
+Archaeologist
+Shipwright
+Librarian
+Physician
+Baker
+Falconer
+Ranger
+Sculptor
+Teacher
+Inventor
+Merchant
+Surveyor
+Astronomer
+Mason
+Streamer
+Locksmith
+Electrician
+Tailor
+Marine

@@ -1,0 +1,170 @@
+[
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "haiku",
+    "premise": "A city wakes up one day to discover every person's inner thoughts have become visible.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "haiku",
+    "premise": "The world's luck is finite, and someone has begun stealing it.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "haiku",
+    "premise": "Every dream leaves behind a physical object by morning.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "haiku",
+    "premise": "A mountain slowly walks across the continent once every thousand years.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "haiku",
+    "premise": "Memories can be planted like gardens.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "haiku",
+    "premise": "Animals begin speaking—but only to children, and they refuse to explain why.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "haiku",
+    "premise": "The oceans slowly retreat, exposing impossible cities, ecosystems, and creatures that were never meant to be seen.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "haiku",
+    "premise": "Time freezes everywhere except inside libraries.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "sonnet",
+    "premise": "People can swap memories like possessions",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "sonnet",
+    "premise": "A mysterious train arrives once every decade, stopping at towns that don't exist on any map. Anyone may board, but nobody knows where it goes—or what they'll become when they return.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "sonnet",
+    "premise": "A city wakes up one day to discover every person's inner thoughts have become visible.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "sonnet",
+    "premise": "The world's luck is finite, and someone has begun stealing it.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "sonnet",
+    "premise": "Every dream leaves behind a physical object by morning.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "sonnet",
+    "premise": "A mountain slowly walks across the continent once every thousand years.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "sonnet",
+    "premise": "Memories can be planted like gardens.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "sonnet",
+    "premise": "Animals begin speaking—but only to children, and they refuse to explain why.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "opus",
+    "premise": "The oceans slowly retreat, exposing impossible cities, ecosystems, and creatures that were never meant to be seen.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "opus",
+    "premise": "Time freezes everywhere except inside libraries.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "opus",
+    "premise": "People can swap memories like possessions",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "opus",
+    "premise": "A mysterious train arrives once every decade, stopping at towns that don't exist on any map. Anyone may board, but nobody knows where it goes—or what they'll become when they return.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "opus",
+    "premise": "A city wakes up one day to discover every person's inner thoughts have become visible.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "opus",
+    "premise": "The world's luck is finite, and someone has begun stealing it.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "opus",
+    "premise": "Every dream leaves behind a physical object by morning.",
+    "cards": {}
+  },
+  {
+    "condition": "control",
+    "model": "opus",
+    "baselineSlotModel": "opus",
+    "premise": "A mountain slowly walks across the continent once every thousand years.",
+    "cards": {}
+  }
+]

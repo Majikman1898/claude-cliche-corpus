@@ -1,0 +1,14 @@
+# Exp 07 | sonnet | word-ban | redundant-cache | rep 0
+*2026-07-28*
+
+Caching layers get proposed for removal a lot, usually right after someone reads that Postgres or MySQL already caches pages in memory. The intuition is reasonable but misses what the two caches are actually for.
+
+The database's internal cache — its buffer pool — exists to avoid disk I/O for pages it has already read. It's scoped to a single database instance, keyed on physical storage layout, and evicted according to the database's own memory pressure. It has no idea what a "query result" is, let alone what your application logic is going to do with one. It just remembers raw pages.
+
+Our caching layer sits at a completely different altitude. It stores computed, application-level artifacts — a serialized API response, an aggregation across three tables, a value pulled from an external service — keyed by something meaningful to the app (a user ID, a cache-busting version string, a request signature). Even when the buffer pool has every relevant page in memory, the database still has to parse the query, plan it, execute the joins, and serialize rows back across the wire. That's real CPU and network time our cache skips entirely by returning a value with no query at all.
+
+There's also a blast-radius argument. When the database is slow — a lock contention spike, a bad plan after a stats update, a replica falling behind — the buffer pool doesn't protect you, because it's part of the thing that's struggling. Our cache, being a separate process, keeps serving traffic through that window. Removing it means every performance problem downstream becomes a performance problem for every caller upstream, immediately.
+
+Scale matters too. The buffer pool is sized to one machine's RAM and one workload. Our cache can be sharded, replicated, and scaled independently of the database, so it absorbs traffic spikes without forcing us to vertically scale the database itself — which is expensive and has a ceiling.
+
+None of this means the layer is beyond question. It's fair to ask whether the TTLs are right, whether we're caching things nobody rereads, whether invalidation bugs are costing us more correctness than the hit rate is worth, or whether a given endpoint should just have been backed by an index instead of a cache entry. Those are real, useful reviews. But the argument "the database already caches" isn't one of them — it compares a page cache to an application cache as if they did the same job. They don't overlap much at all: one saves disk reads, the other saves entire round trips of computation and query execution. If you removed it, you would not get the same system with one redundant part gone; you would get a database that now has to do everything the cache used to do, for every single request, with no separate layer left to fall over to when it can't keep up.

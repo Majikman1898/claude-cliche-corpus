@@ -1,0 +1,14 @@
+alone-conflict: 24 stories
+alone-ending: 24 stories
+alone-names: 24 stories
+alone-opening: 24 stories
+alone-places: 24 stories
+alone-protagonist: 24 stories
+control: 24 stories
+full: 24 stories
+minus-conflict: 24 stories
+minus-ending: 24 stories
+minus-names: 24 stories
+minus-opening: 24 stories
+minus-places: 24 stories
+minus-protagonist: 24 stories
