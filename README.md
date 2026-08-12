@@ -98,4 +98,3 @@ All stories and analysis documents in `corpus/` are machine-generated (Claude Ha
 
 ---
 
-*The parish knows where the moon is kept.* 📒
