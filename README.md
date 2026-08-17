@@ -10,11 +10,11 @@
 
 Every heavy user of LLM fiction knows the feeling: the stories are fluent, competent — and somehow all the *same*. The same names keep surfacing (Elara, Kael, Maya). Mysteries open on fog. Fantasy opens on early frost. Everything ends in bittersweet acceptance, and somewhere in the middle there is always, inexplicably, a **ledger**.
 
-This repository is what happened when we stopped complaining about it and started measuring it. Over ten days in July 2026 we generated a fresh corpus of Claude-written short stories under controlled conditions, built deterministic instruments (regex classifiers, collision counters, Shannon entropy over plot devices, n-gram overlap), pre-registered our predictions before every run, and tried — experiment by experiment — to *kill* the sameness: first by banning it, then by out-randomizing it, then by ablating exactly which interventions do the work, then by tracking it across a model generation, and finally by chasing it out of fiction entirely and into the assistant's own analytical voice.
+   Our goal was to measure and quantify the incredible regularity with which these behaviors occurred. We generated a fresh corpus of Claude-written short stories under controlled conditions, built deterministic instruments (regex classifiers, collision counters, Shannon entropy over plot devices, n-gram overlap), pre-registered our predictions before every run, and tried — experiment by experiment — to *kill* the sameness: first by banning it, then by out-randomizing it, then by ablating exactly which interventions do the work, then by tracking it across a model generation, and finally by chasing it out of fiction entirely and into the assistant's own analytical voice.
 
 The sameness survived everything. But it survived in such lawful, measurable, *interesting* ways that the failures became the findings.
 
-## The laws (what we found)
+## Findings 
 
 1. **Convergence is conserved — it relocates, it never dissolves.** Ban the cliché names and the models collide on the "exotic" example names instead (two independent stories both named a character *Ganzorig*). Inject entropy into every channel you can think of and the pressure moves to the channels you didn't cover: place names (three independent villages ending in *-mere*), numeric-tenure openings, ironic codas. (Exp 02, 03, 05)
 
@@ -24,7 +24,7 @@ The sameness survived everything. But it survived in such lawful, measurable, *i
 
 4. **The wells are heritable — names travel by lineage, plots travel by culture.** When Opus 5 shipped, we re-ran the exact control genomes: the old wells drained (Sarah ×5 → 0) and a brand-new one opened — **Ilse/Ilsa in 6 of 24 stories**, the very name Fable 5 had produced spontaneously *before Opus 5 existed* ("Ilsa Voss," auditor). Opus 5 is very likely distilled from the Fable base, and it inherited the birthmark. Sonnet 5, by contrast, showed zero Ilsas and read as Sonnet 4.5 continued. Meanwhile the *luck-as-accounting* plot complex appeared full-strength in every lineage — it travels through shared preference data, not parentage. **Names inherit; plots marinate.** (Exp 06, waves 1–2)
 
-5. **Some tics are invariant across everything we threw at them.** Aphorism-ending rate: 25% in the July baseline, 25% in Opus 5, 29% in Sonnet 5. Ledger/debt lexicon: ~1.0 per 1,000 words even when every pool, premise, and conflict was scrubbed of debt vocabulary — in three consecutive model generations. Some things are, apparently, load-bearing. (Exp 05, 06 — pre-registered prediction P3, supported twice)
+5. **Some tics are invariant across everything we threw at them.** Aphorism-ending rate: 25% in the July baseline, 25% in Opus 5, 29% in Sonnet 5. Ledger/debt lexicon: ~1.0 per 1,000 words even when every pool, premise, and conflict was scrubbed of debt vocabulary — in three consecutive model generations. Some things are, apparently, baked in. (Exp 05, 06 — pre-registered prediction P3, supported twice)
 
 6. **The relocation law is register- and model-dependent.** Banning the assistant-dialect tic "load-bearing" produced three models, three behaviors: **Opus 5 dissolves** the metaphor pressure entirely (−67%, no compensation), **Sonnet 5 attenuates**, and **Fable 5 relocates non-monotonically** — the narrow word-ban nearly silenced it, but the total metaphor-family ban brought the pressure back through a *different* family (wiring, plumbing). The strongest model treats a ban as a rerouting problem; weaker models treat it as a stop sign. This is why prompting never fixes clichés. (Exp 07)
 
@@ -57,7 +57,7 @@ Full technical detail, per-condition numbers, and all pre-registrations live in 
 - **Pre-registration.** Predictions were written and locked before every run from Experiment 05 onward, with falsifiers stated in advance. Three of five Exp-05 predictions were refuted; the refutations are the most informative results in the repo.
 - **External entropy.** All randomization after Exp 03 uses user-supplied pools (hand-written name lists) dealt without replacement by PowerShell RNG, with automated lint rejecting contaminated pools (the debt-keyword incident). See Law 8.
 - **Judging.** Where model judgment was unavoidable (freshness verdicts), we used dual-judge panels with author-exclusion (no model grades its own stories) and report inter-judge agreement honestly (55.1% — which is why conclusions rest on the deterministic counts).
-- **The betting protocol.** Every major run carried opposing predictions, cast and file-locked before data. Current score: **David 5, Ledger 0.** The human called: constraint-relocation, the loaded dice, the distillation lineage, model-dependent ban behavior, and (mid-joke) the register split. The model wrote everything down. This division of labor appears to be optimal.
+
 
 ## Repository layout
 
